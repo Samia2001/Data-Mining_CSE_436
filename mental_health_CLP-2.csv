@@ -1,0 +1,1001 @@
+﻿Name,Age,City,Gender,Job_Role,Sleep_Duration,Diet_Quality,Physical_Activity,Screen_Time,Marital_Status,Stress_Level,Disorder_Name
+Dipa,56,Mymensingh,Female,Student,8,Good,None,8,Single,2,Depression
+Punni,46,Mymensingh,Female,Designer,7,Excellent,Zumba,8,Married,1,Depression
+Rakib,32,Kurigram,Male,Unemployed,7,Average,Aerobic,1,Married,6,Anxiety
+Miraj,25,Gazipur,Male,Doctor,8,Good,None,10,Married,10,Bipolarity
+Farzana,38,Dhaka,Female,Student,5,Poor,Strength Training,11,Single,8,Depression
+Jamil,56,Norail,Male,Analyst,6,Average,HIIT,5,Married,3,Insomnia
+Tawhid,36,Dhaka,Male,Designer,6,Poor,Strength Training,4,Married,10,Bipolarity
+Jannat,40,Norail,Female,Unemployed,6,Poor,Yoga,2,Divorced,1,Insomnia
+Fahim,28,Mymensingh,Male,Designer,7,Excellent,HIIT,8,Single,9,Anxiety
+Akashi,28,Dhaka,Female,Unemployed,7,Excellent,HIIT,3,Divorced,1,Insomnia
+Jubayer,41,Kurigram,Male,Unemployed,5,Good,Strength Training,4,Single,3,Bipolarity
+Laboni,53,Gazipur,Female,Doctor,6,Excellent,Zumba,7,Single,8,Depression
+Kriti,57,Kurigram,Female,Analyst,6,Poor,HIIT,10,Single,3,Depression
+Mitu,41,Gazipur,Female,Doctor,8,Poor,Yoga,9,Divorced,4,Bipolarity
+Lima,20,Dhaka,Female,Unemployed,7,Average,None,2,Divorced,8,Depression
+Ruma,39,Dhaka,Female,Unemployed,6,Poor,Zumba,3,Divorced,1,Insomnia
+Sadi,19,Gazipur,Male,Teacher,5,Good,Zumba,4,Divorced,6,Depression
+Durbar,41,Mymensingh,Male,Student,5,Good,Zumba,10,Married,1,Depression
+Soron,47,Norail,Male,Teacher,6,Excellent,HIIT,1,Married,1,Insomnia
+Srabon,55,Kurigram,Female,Student,7,Excellent,Zumba,7,Married,Unknown,Insomnia
+Maruf,19,Kurigram,Male,Engineer,5,Excellent,Strength Training,2,Single,4,Insomnia
+Ankita,38,Kurigram,Female,Manager,8,Good,Zumba,5,Married,1,Anxiety
+Rubaiyat,50,Dhaka,Female,Designer,5,Poor,Yoga,1,Single,10,Insomnia
+Murtoja,29,Kurigram,Male,Doctor,4,Excellent,Aerobic,3,Divorced,7,Insomnia
+Rubaiyat,39,Norail,Female,Engineer,4,Average,Yoga,2,Single,5,Anxiety
+Sakib,42,Norail,Male,Engineer,7,Excellent,HIIT,1,Single,5,Depression
+Rahima,44,Gazipur,Female,Designer,6,Good,Zumba,7,Married,1,Insomnia
+Lamia,59,Dhaka,Female,Designer,7,Excellent,Zumba,5,Divorced,10,Bipolarity
+Mikel,45,Norail,Male,Student,7,Poor,Strength Training,1,Divorced,6,Insomnia
+Jannat,33,Mymensingh,Female,Teacher,7,Excellent,None,6,Married,9,Insomnia
+Nayeem,32,Dhaka,Male,Analyst,7,Good,Zumba,5,Divorced,9,Anxiety
+Samiha,20,Dhaka,Female,Student,8,Good,Yoga,3,Divorced,8,Bipolarity
+Shihab,54,Norail,Male,Analyst,8,Average,HIIT,7,Divorced,5,Depression
+Sumaiya,24,Mymensingh,Female,Engineer,5,Good,Aerobic,11,Married,1,Depression
+Rakib,38,Gazipur,Male,Analyst,4,Average,Zumba,10,Divorced,9,Bipolarity
+Rasel,26,Norail,Male,Teacher,7,Poor,Aerobic,9,Single,1,Insomnia
+Jannat,56,Mymensingh,Female,Student,5,Good,Zumba,9,Single,8,Anxiety
+Kamrul,35,Dhaka,Male,Unemployed,4,Excellent,HIIT,9,Divorced,5,Bipolarity
+Karim,21,Mymensingh,Female,Designer,6,Poor,None,2,Married,3,Bipolarity
+Farzana,Unknown,Dhaka,Female,Unemployed,8,Excellent,Yoga,3,Married,7,Depression
+Karim,31,Norail,Male,Teacher,4,Excellent,HIIT,7,Married,-8.1,Anxiety
+Lamia,26,Norail,Male,Manager,6,Excellent,Aerobic,5,Divorced,9,Bipolarity
+Lamia,43,Kurigram,Male,Teacher,4,Poor,Zumba,2,Divorced,7,Anxiety
+Farzana,19,Kurigram,Male,Manager,8,Poor,Aerobic,3,Single,3,Insomnia
+Lamia,37,Kurigram,Male,Student,8,Good,Yoga,10,Married,1,Depression
+Labib,45,Norail,Female,Designer,5,Excellent,HIIT,6,Single,8,Insomnia
+Rahim,24,Gazipur,Male,Teacher,7,Average,Aerobic,7,Single,3,Anxiety
+Tamim,25,Norail,Female,Unemployed,4,Good,Aerobic,9,Married,8,Insomnia
+Lamia,52,Mymensingh,Male,Manager,4,Poor,Yoga,1,Divorced,8,Depression
+Rahim,31,Norail,Male,Designer,6,Average,Zumba,11,Divorced,5,Anxiety
+Karim,34,Norail,Male,Doctor,8,Poor,Aerobic,7,Single,1,Bipolarity
+Farzana,53,Dhaka,Female,Doctor,4,Average,Yoga,8,Single,10,Insomnia
+Moyna,57,Dhaka,Male,Doctor,8,Good,Zumba,3,Single,7,Depression
+Miraj,21,Dhaka,Female,Analyst,4,Average,None,4,Single,10,Bipolarity
+Mitu,19,Norail,Female,Teacher,5,Good,Zumba,10,Married,5,Depression
+Karim,23,Gazipur,Female,Student,7,Poor,None,6,Single,8,Anxiety
+Rima,59,Mymensingh,Male,Unemployed,4,Average,HIIT,10,Single,9,Anxiety
+Dip,21,Mymensingh,Female,Student,8,Excellent,Yoga,7,Divorced,7,Insomnia
+Dip,46,Gazipur,Male,Analyst,5,Excellent,Zumba,4,Divorced,7,Depression
+Labib,35,Gazipur,Female,Student,4,Poor,None,8,Divorced,1,Depression
+Farzana,43,Mymensingh,Male,Manager,6,Average,None,5,Married,4,Depression
+Sadia,51,Kurigram,Female,Doctor,7,Excellent,HIIT,1,Married,2,Anxiety
+Hridoy,27,Dhaka,Male,Unemployed,4,Good,Strength Training,4,Divorced,2,Insomnia
+Tamim,53,Dhaka,Male,Teacher,5,Average,Yoga,3,Divorced,2,Depression
+Tamim,31,Mymensingh,Male,Student,6,Average,Strength Training,9,Single,4,Depression
+Purnima,48,Gazipur,Female,Student,5,Excellent,Zumba,8,Single,1,Bipolarity
+Mitu,32,Kurigram,Female,Engineer,5,Good,Yoga,1,Married,4,Depression
+Purnima,25,Mymensingh,Male,Engineer,6,Good,HIIT,11,Married,2,Insomnia
+Labib,31,Dhaka,Female,Engineer,5,Good,Zumba,6,Single,5,Bipolarity
+Nusrat,40,Norail,Female,Teacher,6,Average,Yoga,9,Divorced,3,Bipolarity
+Rakib,57,Gazipur,Female,Doctor,4,Poor,Yoga,7,Single,8,Bipolarity
+Miraj,38,Norail,Female,Designer,6,Average,Strength Training,Not Given,Married,4,Anxiety
+Labib,33,Mymensingh,Female,Doctor,6,Average,Zumba,1,Married,1,Bipolarity
+Rima,35,Dhaka,Female,Unemployed,7,Excellent,HIIT,2,Single,1,Depression
+Labib,41,Kurigram,Female,Doctor,6,Poor,HIIT,5,Single,10,Anxiety
+Rakib,43,Norail,Male,Teacher,6,Good,Zumba,11,Single,3,Anxiety
+Jannat,42,Kurigram,Male,Manager,4,Excellent,Zumba,5,Married,9,Anxiety
+Farzana,58,Dhaka,Female,Manager,-4,Average,None,8,Divorced,7,Anxiety
+Nusrat,46,Norail,Male,Teacher,8,Poor,Aerobic,6,Single,2,Anxiety
+Sakib,32,Kurigram,Male,Engineer,4,Good,Strength Training,8,Married,9,Anxiety
+Purnima,18,Kurigram,Male,Student,4,Good,Zumba,2,Married,10,Anxiety
+Akash,42,Norail,Female,Analyst,8,Average,Zumba,3,Married,2,Bipolarity
+Akash,24,Dhaka,Female,Analyst,6,Good,Aerobic,6,Single,3,Insomnia
+Purnima,26,Kurigram,Female,Designer,5,Good,Aerobic,10,Single,10,Depression
+Nusrat,41,Mymensingh,Female,Student,7,Poor,Yoga,3,Divorced,2,Depression
+Mitu,18,Norail,Female,Designer,5,#4154165,HIIT,6,Married,3ffff,Bipolarity
+Nusrat,25,Gazipur,Male,Engineer,8,Poor,Strength Training,6,Single,6,Bipolarity
+Karim,41,Gazipur,Female,Designer,4,Excellent,Yoga,2,Married,9,Anxiety
+Rima,28,Dhaka,Male,Student,4,Excellent,Zumba,7,Married,9,Insomnia
+Rakib,34,Mymensingh,Female,Unemployed,7,Excellent,Aerobic,2,Divorced,7,Anxiety
+Tamim,25,Kurigram,Male,Student,4,Good,None,6,Single,3,Bipolarity
+Rima,52,Gazipur,Female,Analyst,4,Poor,HIIT,1,Single,4,Anxiety
+Tamim,52,Dhaka,Female,Manager,7,Good,Yoga,3,Married,6,Depression
+Labib,50,Mymensingh,Female,Engineer,7,Average,None,2,Married,5,Depression
+Miraj,22,Mymensingh,Female,Unemployed,8,Poor,HIIT,7,Divorced,2,Anxiety
+Sakib,59,Dhaka,Female,Teacher,4,Excellent,None,4,Divorced,6,Insomnia
+Farzana,56,Dhaka,Female,Unemployed,4,Good,Aerobic,8,Divorced,3,Anxiety
+Shima,58,Kurigram,Male,Unemployed,8,Good,Yoga,6,Divorced,8,Anxiety
+Labib,45,Dhaka,Female,Designer,6101010,Poor,Yoga,10,Divorced,2,Insomnia
+Sadia,24,Kurigram,Male,Analyst,6,Poor,HIIT,4,Divorced,1,Insomnia
+Sakib,26,Kurigram,Female,Designer,6,Excellent,None,5,Married,9,Insomnia
+Akash,25,Norail,Male,Designer,8,Excellent,Aerobic,9,Divorced,3,Depression
+Tamim,29,Mymensingh,Male,Teacher,4,Average,Zumba,7,Married,1,Anxiety
+Rima,51,Mymensingh,Male,Engineer,8,Excellent,Yoga,10,Married,7,Bipolarity
+Rakib,50,Mymensingh,Male,Student,8,Good,Zumba,9,Single,10,Insomnia
+Rima,40,Norail,Male,Doctor,6,Average,Aerobic,7,Married,5,Insomnia
+Moyna,41,Kurigram,Male,Designer,5,Average,Yoga,1,Married,5,Anxiety
+Akash,54,Kurigram,Female,Doctor,4,Average,Yoga,8,Divorced,1,Bipolarity
+Tamim,52,Dhaka,Male,Engineer,6,Poor,None,4,Married,9,Anxiety
+Labib,57,Norail,Female,Doctor,5,Excellent,Zumba,3,Divorced,7,Anxiety
+Purnima,39,Dhaka,Female,Designer,5,Average,None,7,Divorced,8,Insomnia
+Hridoy,44,Norail,Male,Teacher,7,Poor,Strength Training,3,Divorced,9,Insomnia
+Karim,52,Dhaka,Male,Doctor,4,Poor,Zumba,8,Single,6,Depression
+Hridoy,18,Gazipur,Female,Engineer,5,Average,Zumba,6,Divorced,5,Bipolarity
+Miraj,52,Mymensingh,Male,Engineer,6,Average,Strength Training,11115,Married,6,Bipolarity
+Hridoy,54,Mymensingh,Male,Manager,7,Good,Aerobic,4,Divorced,2,Insomnia
+Shima,31,Kurigram,Male,Manager,4,Average,Aerobic,8,Divorced,4,Insomnia
+Lamia,20,Gazipur,Male,Teacher,8,Good,Yoga,8,Divorced,3,Insomnia
+Akash,18,Mymensingh,Male,Doctor,6,Average,HIIT,1,Single,7,Bipolarity
+Mitu,22,Kurigram,Male,Doctor,5,Average,None,9,Married,9,Depression
+Purnima,43,Gazipur,Male,Manager,Unknown,Excellent,HIIT,5,Single,5,Bipolarity
+Moyna,31,Mymensingh,Female,Student,6,Average,Yoga,4,Married,6,Insomnia
+Jannat,56,Dhaka,Male,Analyst,5,Average,HIIT,6,Single,10,Insomnia
+Rima,44,Norail,Female,Engineer,7,Good,Zumba,6,Married,2,Depression
+Karim,Unknown,Gazipur,Female,Student,4,Good,Zumba,2,Single,3,Anxiety
+Rima,32,Kurigram,Female,Engineer,7,Excellent,Strength Training,8,Divorced,3,Anxiety
+Hridoy,32,Gazipur,Female,Unemployed,5,Average,Strength Training,7,Single,9,Bipolarity
+Tamim,43,Kurigram,Male,Unemployed,8,Average,Yoga,1,Single,7,Anxiety
+Dip,59,Gazipur,Female,Student,4,Good,Yoga,5,Divorced,8,Anxiety
+Sakib,30,Kurigram,Female,Unemployed,4,Poor,Yoga,6,Divorced,10,Bipolarity
+Sakib,49,Mymensingh,Female,Manager,6,Poor,Zumba,4,Married,9,Insomnia
+Mitu,56,Dhaka,Female,Manager,6,Poor,HIIT,2,Married,6,Anxiety
+Sadia,49,Mymensingh,Female,Analyst,8,Good,None,4,Married,4,Insomnia
+Purnima,21,Dhaka,Male,Student,4,Good,Yoga,1,Single,1,Bipolarity
+Akash,47,Mymensingh,Male,Engineer,8,Poor,Yoga,7,Married,8,Insomnia
+Lamia,54,Mymensingh,Female,Doctor,6,Poor,Zumba,2,Single,7,Insomnia
+Lamia,40,Gazipur,Male,Engineer,6,Average,None,2,Single,2,Bipolarity
+Nusrat,56,Norail,Male,Designer,4,Good,Zumba,9,Married,8,Insomnia
+Farzana,32,Kurigram,Female,Manager,7,Good,None,5,Married,5,Anxiety
+Labib,46,Kurigram,Female,Teacher,5,Poor,Zumba,2,Single,7,Anxiety
+Rakib,53,Kurigram,Female,Teacher,6,Poor,HIIT,11,Divorced,4,Anxiety
+Nusrat,30,Dhaka,Male,Manager,6,Excellent,Yoga,9,Divorced,5,Anxiety
+Moyna,49,Kurigram,Female,Designer,7,Good,Aerobic,9,Single,8,Insomnia
+Sakib,24,Kurigram,Male,Teacher,7,Excellent,Aerobic,1,Married,1,Anxiety
+Shima,39,Gazipur,Male,Unemployed,8,Average,Yoga,11,Single,1,Insomnia
+Jannat,45,Mymensingh,Male,Manager,8,Excellent,Yoga,3,Single,4,Depression
+Lamia,19,Kurigram,Female,Teacher,5,Poor,Yoga,4,Married,3,Insomnia
+Dip,59,Norail,Male,Manager,5,Good,Yoga,7,Divorced,10,Anxiety
+Rakib,23,Kurigram,Female,Analyst,4,Good,None,10,Single,2,Depression
+Hridoy,45,Dhaka,Female,Doctor,8,Excellent,HIIT,4,Divorced,3,Bipolarity
+Lamia,45,Dhaka,Female,Doctor,6,Excellent,Aerobic,2,Divorced,1,Insomnia
+Jannat,37,Dhaka,Female,Engineer,8,Average,Strength Training,7,Married,1,Anxiety
+Farzana,47,Kurigram,Female,Designer,6,Average,Aerobic,6,Single,6,Anxiety
+Nusrat,28,Gazipur,Male,Manager,7,Poor,Aerobic,3,Single,5,Anxiety
+Miraj,45,Norail,Male,Student,8,Poor,Zumba,6,Divorced,8,Bipolarity
+Lamia,42,Kurigram,Male,Engineer,7,Poor,Yoga,11,Divorced,2,Depression
+Miraj,56,Gazipur,Male,Engineer,5,Excellent,Yoga,6,Married,4,Depression
+Mitu,50,Gazipur,Male,Manager,5,Excellent,Yoga,5,Divorced,8,Anxiety
+Farzana,18,Kurigram,Female,Manager,4,Good,Zumba,4,Married,6,Insomnia
+Purnima,44,Kurigram,Female,Engineer,8,Poor,HIIT,10,Single,1,Anxiety
+Lamia,30,Gazipur,Male,Engineer,7,Excellent,HIIT,1,Married,4,Anxiety
+Tamim,58,Gazipur,Male,Doctor,-1,Good,Strength Training,10,Divorced,1,Insomnia
+Jannat,20,Gazipur,Male,Student,5,Poor,HIIT,6,Single,2,Anxiety
+Rima,56,Kurigram,Female,Unemployed,5,Average,HIIT,2,Married,5,Bipolarity
+Rima,23,Gazipur,Female,Engineer,6,Average,Yoga,3,Single,8,Anxiety
+Hridoy,25,Dhaka,Female,Unemployed,7,Excellent,None,8,Married,8,Bipolarity
+Tamim,44,Kurigram,Male,Doctor,7,Good,Aerobic,10,Divorced,3,Anxiety
+Karim,26,Dhaka,Male,Engineer,8,Average,HIIT,6,Divorced,4,Depression
+Rakib,54,Mymensingh,Male,Teacher,8,Good,HIIT,3,Single,10,Insomnia
+Dip,50,Kurigram,Male,Engineer,4,Good,Zumba,7,Single,Not Given,Depression
+Mitu,59,Mymensingh,Female,Manager,5,Average,Strength Training,4,Single,10,Anxiety
+Dip,41,Gazipur,Male,Designer,-3,Good,None,9,Married,3,Anxiety
+Jannat,32,Gazipur,Male,Designer,7,Average,Zumba,5,Divorced,2,Bipolarity
+Shima,49,Norail,Male,Engineer,6,Excellent,Yoga,3,Single,6,Anxiety
+Sadia,49,Gazipur,Female,Analyst,7,Poor,Aerobic,2,Single,5,Anxiety
+Lamia,41,Mymensingh,Female,Teacher,5,Poor,Strength Training,11,Single,10,Anxiety
+Karim,58,Gazipur,Male,Student,7,Excellent,Zumba,2,Married,5,Depression
+Sakib,29,Kurigram,Female,Engineer,4,Average,HIIT,3,Single,10,Bipolarity
+Sadia,56,Gazipur,Female,Unemployed,5,Average,HIIT,2,Single,5,Depression
+Dip,19,Norail,Female,Student,6,Average,Strength Training,4,Married,10,Bipolarity
+Shima,20,Gazipur,Female,Teacher,4,Average,HIIT,2,Married,5,Depression
+Lamia,54,Mymensingh,Female,Engineer,5,Excellent,Zumba,10,Single,3,Anxiety
+Farzana,34,Mymensingh,Male,Analyst,6,Poor,Zumba,9,Single,7,Depression
+Hridoy,19,Gazipur,Male,Doctor,4,Good,HIIT,2,Married,6,Depression
+Miraj,19,Mymensingh,Male,Analyst,4,Good,HIIT,9,Divorced,4,Bipolarity
+Lamia,45,Mymensingh,Female,Manager,5,Poor,Yoga,6,Married,2,Bipolarity
+Purnima,Who knows,Norail,Female,Analyst,8,Excellent,Aerobic,1,Divorced,9,Depression
+Farzana,54,Kurigram,Female,Unemployed,4,Good,Strength Training,4,Single,1,Bipolarity
+Hridoy,49,Norail,Female,Doctor,4,Poor,Zumba,1,Single,4,Bipolarity
+Labib,50,Dhaka,Male,Manager,6,Excellent,Strength Training,6,Divorced,1,Bipolarity
+Rima,18,Norail,Male,Doctor,7,Good,Yoga,4,Married,6,Insomnia
+Rahim,36,Gazipur,Male,Designer,5,Average,Zumba,3,Single,4,Bipolarity
+Miraj,19,Kurigram,Male,Doctor,5,Average,Yoga,3,Divorced,5,Insomnia
+Rakib,43,Gazipur,Male,Engineer,8,Excellent,Yoga,9,Married,5,Insomnia
+Sakib,49,Dhaka,Male,Student,8,Average,None,6,Divorced,9,Bipolarity
+Sakib,23,Kurigram,Female,Designer,5,Excellent,HIIT,9,Married,1,Depression
+Rima,49,Mymensingh,Female,Designer,8,Poor,None,5,Married,2,Bipolarity
+Miraj,Who knows,Norail,Male,Student,6,Poor,Strength Training,2,Married,6,Anxiety
+Hridoy,28,Gazipur,Female,Unemployed,5,Good,Strength Training,8,Married,Not Given,Depression
+Rahim,Not Given,Dhaka,Male,Designer,8,Excellent,HIIT,5,Divorced,7,Insomnia
+Farzana,55,Mymensingh,Male,Doctor,5,Good,None,2,Divorced,3,Insomnia
+Dip,41,Norail,Female,Analyst,7,Good,Strength Training,4,Divorced,3,Depression
+Hridoy,22,Mymensingh,Male,Teacher,4,Poor,None,9,Divorced,10,Depression
+Moyna,51,Norail,Male,Unemployed,5,Good,HIIT,4,Divorced,2,Bipolarity
+Labib,23,Kurigram,Male,Doctor,4,Average,Zumba,4,Married,3,Insomnia
+Sadia,39,Mymensingh,Female,Manager,8,Good,Yoga,2,Single,10,Anxiety
+Tamim,28,Mymensingh,Female,Manager,4,Excellent,Yoga,6,Single,1,Bipolarity
+Rahim,33,Mymensingh,Female,Analyst,5,Average,None,11,Divorced,5,Depression
+Mitu,50,Kurigram,Female,Unemployed,7,Poor,Strength Training,2,Divorced,5,Insomnia
+Rakib,26,Dhaka,Male,Unemployed,8,Excellent,None,7,Single,7,Depression
+Akash,23,Norail,Female,Analyst,5,Average,None,3,Married,4,Depression
+Labib,33,Mymensingh,Female,Unemployed,8,Excellent,Aerobic,3,Divorced,3,Depression
+Jannat,46,Kurigram,Female,Designer,6,Average,Yoga,5,Married,1,Bipolarity
+Sakib,20,Dhaka,Male,Engineer,4,Excellent,HIIT,3,Single,8,Anxiety
+Farzana,37,Norail,Female,Engineer,6,Excellent,None,2,Single,3,Anxiety
+Akash,53,Kurigram,Female,Unemployed,5,Average,Aerobic,10,Divorced,2,Insomnia
+Farzana,36,Norail,Male,Designer,7,Poor,Aerobic,9,Married,4,Depression
+Sakib,43,Mymensingh,Male,Designer,8,Poor,Yoga,2,Divorced,3,Anxiety
+Purnima,20,Dhaka,Male,Student,4,Excellent,Yoga,11,Single,1,Depression
+Nusrat,36,Kurigram,Male,Student,8,Excellent,Yoga,2,Married,3,Insomnia
+Sakib,37,Dhaka,Female,Teacher,5,Poor,HIIT,8,Divorced,2,Depression
+Purnima,49,Mymensingh,Male,Teacher,8,Poor,Aerobic,9,Divorced,8,Anxiety
+Shima,24,Dhaka,Female,Teacher,4,Good,Strength Training,7,Divorced,6,Depression
+Farzana,58,Dhaka,Female,Teacher,5,Poor,HIIT,3,Single,9,Anxiety
+Jannat,50,Gazipur,Female,Analyst,-3,Excellent,Zumba,9,Divorced,8,Insomnia
+Purnima,Unknown,Dhaka,Female,Analyst,7,Average,None,3,Married,10,Depression
+Mitu,56,Norail,Female,Student,5,Poor,Yoga,5,Divorced,3,Anxiety
+Mitu,35,Kurigram,Male,Engineer,5,Good,Aerobic,9,Single,5,Insomnia
+Shima,57,Gazipur,Female,Designer,7,Good,None,3,Divorced,7,Depression
+Mitu,18,Kurigram,Female,Manager,6,Good,HIIT,7,Single,5,Insomnia
+Nusrat,28,Kurigram,Female,Engineer,4,Average,Zumba,1,Single,8,Anxiety
+Nusrat,45,Mymensingh,Male,Doctor,6,Poor,HIIT,4,Married,5,Depression
+Dip,42,Mymensingh,Female,Analyst,8,Poor,HIIT,4,Married,1,Depression
+Nusrat,40,Gazipur,Female,Teacher,7,Poor,Strength Training,7,Divorced,5,Depression
+Mitu,48,Mymensingh,Male,Teacher,6,Average,None,8,Single,4,Insomnia
+Rakib,47,Mymensingh,Female,Doctor,5,Average,Strength Training,1,Single,6,Insomnia
+Miraj,59,Mymensingh,Female,Engineer,8,Excellent,HIIT,5,Married,3,Anxiety
+Nusrat,52,Kurigram,Male,Teacher,8,Good,Zumba,7,Married,5,Bipolarity
+Sakib,24,Gazipur,Female,Engineer,6,Good,Aerobic,4,Divorced,2,Depression
+Nusrat,33,Kurigram,Female,Designer,6,Poor,Aerobic,4,Single,6,Depression
+Rima,43,Norail,Female,Doctor,7,Average,None,4,Married,6,Anxiety
+Labib,19,Kurigram,Female,Manager,4,Average,Yoga,6,Divorced,5,Depression
+Karim,18,Norail,Female,Engineer,6,Poor,Yoga,7,Single,6,Insomnia
+Miraj,29,Dhaka,Male,Designer,6,Poor,Aerobic,2,Single,7,Insomnia
+Purnima,22,Dhaka,Male,Unemployed,5,Excellent,HIIT,5,Married,5,Depression
+Jannat,54,Norail,Male,Unemployed,8,Good,HIIT,4,Divorced,1,Depression
+Rima,49,Norail,Female,Engineer,4,Good,Strength Training,3,Married,8,Insomnia
+Rahim,26,Kurigram,Female,Unemployed,5,Good,None,7,Divorced,4,Depression
+Karim,58,Norail,Female,Engineer,7,Excellent,Strength Training,11,Single,9,Insomnia
+Nusrat,52,Gazipur,Male,Teacher,7,Poor,Yoga,6,Divorced,10,Bipolarity
+Moyna,36,Dhaka,Female,Student,6,Poor,Aerobic,7,Divorced,6,Bipolarity
+Shima,33,Dhaka,Female,Unemployed,6,Good,HIIT,5,Divorced,1,Depression
+Karim,20,Norail,Female,Analyst,7,Good,Aerobic,6,Divorced,3,Depression
+Mitu,37,Mymensingh,Male,Engineer,6,Excellent,Zumba,5,Divorced,3,Depression
+Hridoy,41,Mymensingh,Male,Engineer,4,Average,Aerobic,7,Married,10,Insomnia
+Dip,50,Norail,Female,Engineer,6,Average,Zumba,2,Divorced,4,Bipolarity
+Shima,41,Gazipur,Female,Student,8,Good,Strength Training,Who knows,Divorced,6,Bipolarity
+Miraj,28,Mymensingh,Female,Designer,6,Excellent,Strength Training,5,Single,7,Anxiety
+Karim,25,Norail,Male,Unemployed,5,Good,Yoga,6,Divorced,10,Anxiety
+Jannat,53,Gazipur,Male,Manager,4,Average,Aerobic,6,Single,4,Depression
+Akash,55,Gazipur,Male,Manager,5,Good,Aerobic,5,Married,6,Insomnia
+Shima,57,Kurigram,Female,Doctor,5,Average,Zumba,10,Married,1,Depression
+Purnima,37,Gazipur,Male,Teacher,8,Average,Strength Training,7,Divorced,8,Bipolarity
+Sakib,52,Mymensingh,Female,Student,4,Average,Zumba,10,Married,7,Depression
+Akash,42,Mymensingh,Female,Designer,4,Poor,Strength Training,8,Divorced,9,Depression
+Farzana,52,Norail,Male,Engineer,4,Poor,Zumba,7,Married,3,Bipolarity
+Mitu,42,Norail,Female,Designer,4,Good,Strength Training,5,Divorced,2,Bipolarity
+Jannat,46,Gazipur,Male,Student,4,Average,Zumba,1,Divorced,1,Bipolarity
+Sadia,35,Dhaka,Female,Student,8,Poor,Strength Training,5,Single,3,Bipolarity
+Jannat,35,Kurigram,Female,Student,18,Good,None,10,Single,5,Anxiety
+Farzana,19,Dhaka,Male,Doctor,5,Good,Zumba,2,Single,2,Insomnia
+Karim,52,Gazipur,Female,Analyst,4,Good,Aerobic,5,Single,Who knows,Insomnia
+Rakib,33,Gazipur,Female,Teacher,6,Good,Yoga,5,Divorced,4,Bipolarity
+Hridoy,58,Dhaka,Female,Doctor,6,Good,None,2,Married,7,Insomnia
+Karim,53,Kurigram,Female,Doctor,5,Excellent,None,5,Divorced,3,Insomnia
+Dip,50,Dhaka,Female,Unemployed,8,Average,Zumba,4,Single,9,Insomnia
+Jannat,21,Norail,Female,Analyst,7,Good,Yoga,1,Single,8,Insomnia
+Hridoy,50,Mymensingh,Female,Doctor,7,Excellent,Aerobic,3,Married,4,Bipolarity
+Akash,31,Norail,Female,Student,6,Average,None,1,Single,1,Depression
+Akash,38,Mymensingh,Male,Student,5,Poor,Aerobic,11,Divorced,1,Depression
+Purnima,37,Gazipur,Male,Unemployed,7,Good,Strength Training,5,Divorced,1,Depression
+Farzana,25,Kurigram,Female,Designer,6,Excellent,Yoga,4,Divorced,1,Anxiety
+Lamia,24,Dhaka,Female,Engineer,8,Poor,HIIT,7,Divorced,8,Insomnia
+Labib,20,Kurigram,Male,Doctor,7,Excellent,Strength Training,5,Divorced,3,Bipolarity
+Akash,34,Dhaka,Female,Engineer,6,Average,Yoga,10,Married,6,Bipolarity
+Miraj,50,Norail,Male,Teacher,6,Average,Zumba,4,Divorced,3,Anxiety
+Labib,29,Norail,Male,Manager,4,Poor,Zumba,2,Single,5,Bipolarity
+Akash,39,Dhaka,Male,Student,8,Excellent,Aerobic,4,Single,7,Depression
+Tamim,39,Kurigram,Female,Designer,4,Good,None,2,Single,2,Anxiety
+Karim,47,Dhaka,Female,Teacher,5,Good,HIIT,8,Single,6,Bipolarity
+Labib,55,Gazipur,Female,Unemployed,4,Poor,Zumba,3,Married,6,Anxiety
+Sadia,55,Norail,Male,Designer,4,Poor,Yoga,9,Single,3,Anxiety
+Rakib,25,Gazipur,Male,Manager,7,Poor,None,4,Married,6,Bipolarity
+Karim,44,Norail,Male,Manager,6,Excellent,None,6,Single,10,Depression
+Dip,44,Norail,Female,Unemployed,8,Good,Yoga,10,Married,10,Bipolarity
+Shima,51,Mymensingh,Male,Analyst,4,Good,None,5,Married,5,Insomnia
+Rahim,38,Gazipur,Male,Unemployed,8,Good,Zumba,10,Married,2,Insomnia
+Mitu,47,Gazipur,Female,Student,4,Poor,Yoga,1,Single,9,Bipolarity
+Hridoy,50,Mymensingh,Male,Teacher,5,Good,Yoga,9,Married,8,Depression
+Rahim,45,Kurigram,Male,Analyst,4,Average,Aerobic,1,Divorced,3,Insomnia
+Rahim,50,Gazipur,Female,Manager,7,Poor,HIIT,8,Divorced,8,Insomnia
+Rahim,22,Dhaka,Female,Teacher,6,Good,Aerobic,9,Single,9,Bipolarity
+Rakib,36,Mymensingh,Male,Designer,5,Excellent,HIIT,9,Divorced,3,Bipolarity
+Rakib,21,Gazipur,Female,Analyst,4,Poor,Yoga,1,Divorced,3,Bipolarity
+Mitu,52,Kurigram,Male,Analyst,8,Average,None,2,Divorced,2,Anxiety
+Sadia,34,Gazipur,Female,Student,Not Given,Average,HIIT,1,Single,8,Anxiety
+Rahim,45,Norail,Male,Unemployed,5,Excellent,Yoga,10,Single,10,Anxiety
+Tamim,47,Dhaka,Female,Engineer,4,Excellent,Yoga,2,Divorced,1,Bipolarity
+Labib,46,Mymensingh,Male,Designer,5,Poor,Aerobic,10,Single,8,Depression
+Rakib,23,Norail,Female,Designer,8,Poor,Aerobic,8,Married,7,Insomnia
+Dip,52,Kurigram,Female,Unemployed,5,Average,None,5,Divorced,7,Anxiety
+Farzana,58,Norail,Female,Analyst,8,Excellent,Strength Training,11,Single,3,Depression
+Karim,54,Norail,Female,Analyst,4,Poor,Zumba,7,Single,1,Bipolarity
+Mitu,41,Kurigram,Female,Student,6,Average,Strength Training,2,Divorced,4,Anxiety
+Tamim,46,Norail,Female,Engineer,Not Given,Excellent,Strength Training,8,Single,9,Bipolarity
+Jannat,48,Mymensingh,Female,Designer,16,Average,None,11,Divorced,5,Depression
+Rima,52,Gazipur,Male,Manager,8,Good,HIIT,6,Single,1,Anxiety
+Mitu,50,Norail,Male,Doctor,5,Excellent,None,8,Married,5,Anxiety
+Rima,38,Mymensingh,Female,Doctor,7,Poor,None,1,Divorced,8,Anxiety
+Jannat,49,Gazipur,Female,Engineer,6,Poor,Yoga,1,Married,8,Anxiety
+Akash,40,Gazipur,Male,Teacher,5,Good,Yoga,7,Divorced,5,Depression
+Sadia,50,Norail,Male,Student,6,Excellent,Yoga,8,Single,9,Anxiety
+Hridoy,20,Mymensingh,Female,Engineer,5,Average,Zumba,3,Married,1,Insomnia
+Tamim,35,Norail,Male,Unemployed,4,Poor,HIIT,5,Single,4,Insomnia
+Jannat,42,Kurigram,Male,Unemployed,6,Good,HIIT,1,Divorced,3,Bipolarity
+Nusrat,59,Gazipur,Female,Doctor,7,Good,Yoga,7,Divorced,2,Anxiety
+Mitu,48,Norail,Female,Analyst,7,Excellent,Strength Training,5,Divorced,8,Insomnia
+Lamia,20,Gazipur,Female,Doctor,8,Excellent,Zumba,8,Divorced,7,Insomnia
+Karim,57,Mymensingh,Male,Analyst,-3,Poor,Strength Training,8,Divorced,9,Insomnia
+Rakib,41,Dhaka,Female,Student,6,Good,Aerobic,9,Married,2,Depression
+Sakib,49,Norail,Female,Analyst,8,Average,HIIT,7,Divorced,4,Anxiety
+Hridoy,39,Norail,Male,Engineer,Who knows,Good,HIIT,11,Single,6,Depression
+Mitu,40,Gazipur,Female,Analyst,5,Average,Strength Training,1,Married,3,Depression
+Tamim,19,Mymensingh,Male,Teacher,7,Average,Zumba,3,Single,8,Insomnia
+Hridoy,44,Kurigram,Male,Unemployed,4,Poor,HIIT,8,Divorced,3,Insomnia
+Miraj,59,Mymensingh,Male,Engineer,7,Good,Strength Training,3,Single,2,Bipolarity
+Dip,19,Norail,Male,Unemployed,8,Average,None,8,Married,3,Anxiety
+Rahim,43,Kurigram,Male,Student,4,Excellent,None,1,Married,6,Anxiety
+Rakib,34,Mymensingh,Male,Engineer,8,Average,Zumba,5,Married,2,Insomnia
+Shima,57,Dhaka,Female,Teacher,5,Excellent,Strength Training,4,Single,8,Insomnia
+Jannat,50,Gazipur,Female,Student,4,Excellent,None,5,Married,1,Anxiety
+Purnima,26,Mymensingh,Female,Doctor,8,Good,Zumba,8,Single,7,Bipolarity
+Mitu,56,Mymensingh,Male,Teacher,5,Excellent,Yoga,10,Divorced,2,Insomnia
+Sadia,46,Dhaka,Female,Student,7,Average,Zumba,4,Divorced,10,Bipolarity
+Shima,59,Norail,Male,Manager,5,Excellent,Aerobic,11,Single,6,Depression
+Labib,43,Gazipur,Female,Analyst,6,Good,Yoga,4,Married,2,Insomnia
+Nusrat,52,Mymensingh,Male,Engineer,5,Poor,Strength Training,3,Single,2,Depression
+Moyna,42,Kurigram,Female,Student,5,Average,Yoga,7,Single,10,Insomnia
+Tamim,41,Mymensingh,Male,Engineer,6,Average,Yoga,3,Single,8,Depression
+Lamia,30,Gazipur,Female,Analyst,8,Good,Strength Training,3,Divorced,2,Insomnia
+Lamia,24,Mymensingh,Male,Student,8,Good,Strength Training,11,Single,7,Bipolarity
+Dip,53,Dhaka,Female,Doctor,5,Good,None,10,Divorced,3,Bipolarity
+Purnima,37,Mymensingh,Male,Manager,6,Good,Aerobic,5,Single,8,Bipolarity
+Dip,18,Mymensingh,Female,Manager,6,Average,Strength Training,Not Given,Divorced,7,Depression
+Miraj,25,Kurigram,Female,Teacher,7,Poor,HIIT,6,Single,8,Bipolarity
+Rahim,33,Dhaka,Female,Student,8,Excellent,HIIT,8,Single,7,Depression
+Jannat,31,Dhaka,Male,Analyst,4,Excellent,Aerobic,10,Married,6,Insomnia
+Jannat,29,Mymensingh,Male,Student,8,Poor,Zumba,6,Married,7,Depression
+Nusrat,40,Kurigram,NULL,Engineer,8,Poor,Zumba,1,Single,5,Insomnia
+Hridoy,32,Mymensingh,Male,Designer,7,Poor,HIIT,8,Single,7,Anxiety
+Lamia,45,Mymensingh,Male,Unemployed,4,Good,Strength Training,8,Single,1,Anxiety
+Sakib,51,Gazipur,Female,Student,7,Average,Aerobic,9,Single,1,Anxiety
+Sadia,19,Gazipur,Male,Manager,4,Average,Zumba,9,Married,9,Depression
+Purnima,49,Kurigram,Female,Manager,5,Average,Zumba,2,Divorced,5,Anxiety
+Lamia,40,Norail,Female,Unemployed,4,Good,Yoga,2,Single,5,Anxiety
+Labib,39,Gazipur,Male,Manager,7,Average,HIIT,3,Married,3,Anxiety
+Tamim,42,Norail,Female,Doctor,8,Good,Strength Training,1,Single,5,Insomnia
+Karim,39,Dhaka,Male,Student,4,Average,Aerobic,4,Single,3,Bipolarity
+Rahim,39,Gazipur,Male,Teacher,4,Poor,Zumba,4,Divorced,9,Depression
+Farzana,Not Given,Gazipur,Male,Student,6,Excellent,Yoga,9,Single,9,Anxiety
+Mitu,23,Kurigram,Female,Designer,8,Excellent,HIIT,9,Single,6,Insomnia
+Jannat,32,Norail,Male,Manager,5,Good,HIIT,9,Divorced,1,Bipolarity
+Dip,54,Gazipur,Male,Engineer,7,Average,Aerobic,10,Divorced,7,Bipolarity
+Shima,50,Gazipur,Male,Manager,5,Excellent,Zumba,7,Divorced,7,Bipolarity
+Nusrat,25,Kurigram,Female,Student,8,Poor,Aerobic,Who knows,Divorced,10,Insomnia
+Shima,22,Kurigram,Male,Doctor,4,Poor,Aerobic,10,Married,10,Anxiety
+Sakib,56,Norail,Female,Analyst,4,Poor,None,Who knows,Married,4,Bipolarity
+Lamia,21,Dhaka,Female,Student,16,Good,Yoga,4,Married,8,Insomnia
+Moyna,23,Dhaka,Male,Student,4,Good,HIIT,11,Single,6,Insomnia
+Karim,49,Mymensingh,Female,Teacher,4,Average,None,8,Divorced,4,Depression
+Sakib,47,Gazipur,Female,Doctor,4,Poor,Strength Training,2,Divorced,4,Insomnia
+Mitu,52,Norail,Male,Designer,7,Average,HIIT,6,Married,2,Bipolarity
+Rahim,57,Gazipur,Male,Analyst,7,Average,HIIT,5,Single,2,Bipolarity
+Purnima,33,Norail,Male,Manager,Not Given,Poor,Yoga,2,Single,Not Given,Insomnia
+Dip,30,Norail,Female,Engineer,5,Average,Strength Training,11,Single,5,Bipolarity
+Akash,59,Norail,Male,Student,8,Excellent,Zumba,10,Married,8,Insomnia
+Rahim,47,Gazipur,Female,Designer,8,Good,Strength Training,1,Single,6,Bipolarity
+Lamia,36,Kurigram,Female,Analyst,8,Average,Zumba,8,Single,4,Depression
+Rahim,34,Gazipur,Female,Engineer,6,Poor,Strength Training,2,Single,7,Anxiety
+Farzana,36,Norail,Female,Designer,7,Good,Aerobic,7,Divorced,8,Depression
+Moyna,45,Mymensingh,Female,Doctor,6,Good,Strength Training,9,Married,2,Depression
+Miraj,43,Dhaka,Male,Doctor,8,Average,None,9,Divorced,7,Anxiety
+Farzana,54,Norail,Male,Analyst,5,Excellent,None,8,Divorced,2,Bipolarity
+Rahim,43,Mymensingh,Female,Manager,4,Average,Yoga,11,Married,2,Anxiety
+Rakib,40,Kurigram,Female,Unemployed,7,Excellent,Zumba,10,Divorced,8,Insomnia
+Tamim,26,Norail,Male,Engineer,7,Good,HIIT,9,Single,2,Anxiety
+Sadia,29,Mymensingh,Male,Doctor,6,Average,Yoga,2,Single,9,Depression
+Jannat,18,Norail,Female,Unemployed,7,Poor,None,6,Single,1,Anxiety
+Hridoy,18,Gazipur,Female,Analyst,8,Average,None,4,Single,9,Bipolarity
+Moyna,51,Mymensingh,Male,Doctor,8,Excellent,Zumba,4,Married,1,Depression
+Hridoy,49,Gazipur,Male,Doctor,6,Excellent,None,5,Divorced,10,Insomnia
+Moyna,42,Gazipur,Female,Designer,8,Average,None,3,Divorced,10,Bipolarity
+Nusrat,57,Mymensingh,Male,Unemployed,-2,Excellent,Zumba,1,Single,2,Depression
+Karim,18,Dhaka,Male,Designer,6,Good,None,8,Single,6,Insomnia
+Shima,33,Mymensingh,Female,Doctor,5,Average,HIIT,5,Divorced,6,Bipolarity
+Rima,56,Dhaka,Unknown,Unemployed,4,Excellent,Aerobic,Unknown,Married,1,Insomnia
+Rakib,22,Norail,Female,Teacher,5,Average,Yoga,10,Divorced,7,Anxiety
+Shima,39,Norail,Male,Unemployed,4,Average,HIIT,7,Single,8,Anxiety
+Shima,46,Mymensingh,Female,Designer,4,Poor,HIIT,7,Single,2,Insomnia
+Farzana,20,Norail,Male,Engineer,5,Average,Aerobic,Who knows,Married,8,Anxiety
+Hridoy,29,Kurigram,Female,Analyst,6,Poor,Yoga,9,Divorced,9,Insomnia
+Lamia,43,Gazipur,Female,Analyst,8,Excellent,HIIT,2,Married,6,Bipolarity
+Karim,33,Gazipur,Male,Manager,8,Poor,None,5,Married,5,Depression
+Tamim,54,Dhaka,Male,Engineer,4,Poor,Aerobic,5,Single,9,Insomnia
+Mitu,39,Norail,Female,Engineer,4,Poor,Yoga,8,Divorced,9,Depression
+Jannat,46,Dhaka,Female,Engineer,6,Good,Strength Training,8,Single,1,Depression
+Akash,31,Gazipur,Male,Manager,7,Poor,Zumba,7,Divorced,3,Insomnia
+Moyna,45,Gazipur,Female,Engineer,5,Average,None,7,Single,9,Anxiety
+Dip,22,Norail,Male,Student,4,Poor,Aerobic,11,Single,2,Bipolarity
+Labib,47,Kurigram,Male,Manager,8,Average,Zumba,6,Divorced,4,Depression
+Purnima,22,Kurigram,Female,Analyst,6,Poor,Strength Training,6,Divorced,4,Bipolarity
+Rahim,29,Norail,Male,Student,5,Good,HIIT,11,Single,2,Depression
+Nusrat,33,Norail,Male,Manager,6,Excellent,HIIT,9,Divorced,3,Insomnia
+Dip,43,Dhaka,Male,Doctor,5,Poor,Yoga,6,Single,3,Anxiety
+Lamia,43,Norail,Female,Doctor,5,Poor,Aerobic,2,Divorced,1,Bipolarity
+Mitu,38,Kurigram,Male,Analyst,4,Good,Aerobic,2,Single,6,Depression
+Dip,56,Norail,Female,Doctor,Not Given,Poor,Yoga,5,Single,8,Insomnia
+Rima,53,Dhaka,Female,Engineer,6,Average,Zumba,4,Single,3,Insomnia
+Rahim,50,Dhaka,Female,Manager,8,Poor,HIIT,11,Married,5,Depression
+Rima,47,Dhaka,Male,Student,8,Poor,HIIT,2,Divorced,1,Depression
+Hridoy,54,Dhaka,Male,Engineer,4,Excellent,Aerobic,3,Single,10,Depression
+Nusrat,40,Mymensingh,Female,Doctor,4,Excellent,Aerobic,7,Married,7,Anxiety
+Moyna,27,Norail,Female,Designer,7,Poor,Yoga,8,Single,10,Depression
+Rahim,22,Gazipur,Male,Unemployed,-4,Good,Strength Training,6,Married,1,Depression
+Nusrat,53,Norail,Female,Student,5,Excellent,Zumba,11,Single,9,Anxiety
+Rakib,51,Mymensingh,Female,Engineer,6,Poor,None,5,Single,8,Insomnia
+Rima,48,Dhaka,Male,Manager,4,Excellent,Strength Training,1,Married,7,Depression
+Akash,27,Mymensingh,Female,Analyst,6,Poor,Strength Training,8,Married,10,Bipolarity
+Karim,36,Kurigram,Male,Engineer,6,Excellent,Aerobic,3,Divorced,7,Insomnia
+Rahim,49,Kurigram,Male,Designer,7,Excellent,Aerobic,6,Divorced,5,Bipolarity
+Farzana,18,Norail,Female,Doctor,8,Average,Aerobic,3,Married,5,Depression
+Dip,22,Norail,Male,Student,4,Poor,Strength Training,7,Divorced,5,Anxiety
+Farzana,21,Gazipur,Male,Analyst,6,Poor,Zumba,7,Married,1,Anxiety
+Shima,33,Gazipur,Male,Student,18,Poor,Aerobic,9,Divorced,8,Anxiety
+Sakib,41,Kurigram,Female,Analyst,5,Poor,HIIT,5,Single,Not Given,Depression
+Nusrat,33,Dhaka,Female,Unemployed,7,Excellent,Zumba,8,Divorced,4,Depression
+Sakib,Who knows,Mymensingh,Female,Manager,5,Average,HIIT,10,Single,9,Bipolarity
+Karim,45,Gazipur,Male,Student,-4,Average,Zumba,10,Single,9,Anxiety
+Rahim,49,Gazipur,Male,Doctor,4,Good,Aerobic,8,Divorced,5,Depression
+Labib,44,Dhaka,Female,Manager,8,Poor,None,1,Married,4,Insomnia
+Labib,37,Dhaka,NaN,Manager,6,Good,Yoga,5,Single,3,Depression
+Hridoy,41,Norail,Male,Unemployed,6,Excellent,Aerobic,3,Single,3,Depression
+Sakib,29,Mymensingh,Female,Analyst,5,Good,Strength Training,1,Divorced,5,Insomnia
+Mitu,52,Dhaka,Female,Teacher,7,Poor,None,4,Married,10,Anxiety
+Sadia,50,Gazipur,Female,Student,6,Average,Strength Training,8,Married,1,Insomnia
+Hridoy,50,Gazipur,Female,Student,8,Average,Zumba,3,Divorced,5,Anxiety
+Labib,54,Kurigram,Female,Engineer,5,Poor,Strength Training,10,Married,6,Insomnia
+Rahim,29,Dhaka,Male,Analyst,5,Excellent,None,2,Divorced,7,Bipolarity
+Shima,20,Norail,Female,Designer,8,Poor,None,11,Divorced,9,Anxiety
+Purnima,18,Mymensingh,Female,Teacher,7,Excellent,Aerobic,9,Divorced,3,Depression
+Dip,50,Norail,Male,Doctor,8,Average,HIIT,10,Single,Who knows,Bipolarity
+Hridoy,57,Gazipur,Male,Engineer,7,Excellent,Aerobic,5,Single,3,Anxiety
+Tamim,27,Norail,Male,Unemployed,8,Poor,Zumba,7,Single,9,Anxiety
+Hridoy,46,Gazipur,Male,Teacher,8,Poor,Strength Training,11,Divorced,7,Anxiety
+Karim,30,Gazipur,Female,Analyst,4,Poor,HIIT,11,Single,9,Insomnia
+Rakib,29,Gazipur,Female,Teacher,5,Excellent,Yoga,2,Single,2,Anxiety
+Jannat,48,Gazipur,Female,Unemployed,8,Excellent,None,9,Single,5,Depression
+Rahim,19,Gazipur,Female,Manager,8,Excellent,HIIT,9,Divorced,4,Anxiety
+Tamim,52,Kurigram,Male,Student,6,Average,HIIT,4,Divorced,2,Depression
+Lamia,40,Norail,Male,Manager,5,Good,Aerobic,4,Divorced,9,Depression
+Nusrat,34,Kurigram,Female,Student,6,Good,Yoga,6,Single,9,Depression
+Tamim,43,Kurigram,Female,Engineer,5,Poor,None,10,Married,6,Bipolarity
+Lamia,25,Dhaka,Female,Unemployed,6,Average,Zumba,10,Single,6,Depression
+Moyna,46,Dhaka,Female,Analyst,8,Excellent,Zumba,10,Single,8,Insomnia
+Farzana,43,Dhaka,Male,Analyst,8,Poor,HIIT,6,Divorced,6,Anxiety
+Labib,27,Mymensingh,Female,Teacher,4,Average,HIIT,1,Divorced,1,Insomnia
+Nusrat,43,Dhaka,Male,Engineer,6,Poor,Strength Training,9,Single,4,Bipolarity
+Jannat,51,Norail,Male,Analyst,7,Average,Yoga,2,Single,7,Anxiety
+Shima,58,Kurigram,Male,Designer,4,Average,None,5,Married,2,Depression
+Mitu,24,Norail,Male,Designer,6,Good,HIIT,9,Married,9,Anxiety
+Karim,21,Dhaka,Female,Manager,6,Poor,Strength Training,4,Divorced,8,Bipolarity
+Rakib,28,Mymensingh,Female,Student,4,Excellent,Yoga,11,Married,8,Bipolarity
+Mitu,46,Mymensingh,Female,Teacher,8,Good,None,3,Married,7,Insomnia
+Hridoy,53,Kurigram,Female,Doctor,6,Good,Zumba,7,Divorced,4,Anxiety
+Rima,42,Norail,Male,Unemployed,8,Excellent,Strength Training,6,Married,2,Anxiety
+Nusrat,38,Gazipur,Male,Student,4,Average,Yoga,8,Single,3,Anxiety
+Rahim,53,Norail,Male,Engineer,8,Excellent,Strength Training,3,Married,6,Insomnia
+Sadia,27,Dhaka,Female,Analyst,5,Poor,HIIT,5,Divorced,5,Bipolarity
+Tamim,54,Gazipur,Male,Student,7,Excellent,Aerobic,10,Single,8,Depression
+Akash,26,Mymensingh,Male,Doctor,6,Average,Zumba,4,Married,6,Anxiety
+Farzana,41,Kurigram,Male,Doctor,7,Excellent,HIIT,4,Single,6,Insomnia
+Sadia,52,Kurigram,Male,Designer,8,Average,HIIT,4,Single,1,Insomnia
+Dip,52,Mymensingh,Female,Engineer,6,Average,Yoga,10,Married,4,Depression
+Labib,53,Dhaka,Male,Student,8,Poor,Strength Training,8,Married,5,Bipolarity
+Rima,35,Mymensingh,Male,Teacher,5,Excellent,Zumba,6,Divorced,3,Anxiety
+Miraj,56,Dhaka,Female,Student,4,Excellent,HIIT,3,Divorced,9,Anxiety
+Shima,49,Gazipur,Female,Designer,6,Poor,Yoga,10,Single,1,Insomnia
+Rahim,41,Mymensingh,Female,Manager,5,Average,Zumba,5,Divorced,6,Bipolarity
+Jannat,40,Dhaka,Male,Doctor,5,Excellent,Strength Training,6,Single,6,Anxiety
+Akash,49,Gazipur,Male,Engineer,6,Poor,HIIT,5,Single,10,Depression
+Karim,54,Mymensingh,Male,Engineer,8,Average,None,6,Divorced,5,Bipolarity
+Labib,29,Kurigram,Male,Teacher,5,Poor,HIIT,8,Divorced,5,Bipolarity
+Rakib,30,Mymensingh,Female,Engineer,7,Excellent,HIIT,7,Divorced,10,Insomnia
+Jannat,40,Norail,Male,Designer,5,Poor,Zumba,5,Married,5,Insomnia
+Jannat,42,Mymensingh,Male,Designer,8,Good,Zumba,10,Single,6,Anxiety
+Mitu,52,Norail,Female,Designer,8,Average,Zumba,6,Single,8,Insomnia
+Farzana,58,Gazipur,Female,Engineer,7,Good,Zumba,4,Single,2,Bipolarity
+Miraj,47,Mymensingh,Female,Engineer,5,Good,Yoga,9,Divorced,6,Anxiety
+Sadia,34,Gazipur,Male,Designer,8,Average,Aerobic,4,Divorced,1,Anxiety
+Mitu,37,Gazipur,Male,Engineer,6,Average,Yoga,1,Divorced,4,Bipolarity
+Tamim,42,Dhaka,Male,Unemployed,4,Poor,HIIT,7,Divorced,10,Anxiety
+Rima,39,Gazipur,Male,Engineer,4,Average,Yoga,7,Divorced,3,Depression
+Jannat,30,Gazipur,Male,Unemployed,4,Good,Strength Training,Who knows,Married,9,Depression
+Mitu,36,Mymensingh,Female,Doctor,5,Good,None,3,Divorced,3,Anxiety
+Tamim,53,Mymensingh,Female,Student,7,Excellent,Zumba,8,Single,6,Insomnia
+Farzana,29,Kurigram,Male,Analyst,8,Average,Strength Training,5,Divorced,1,Depression
+Purnima,58,Dhaka,Male,Unemployed,6,Good,None,10,Single,6,Anxiety
+Akash,36,Gazipur,Male,Unemployed,6,Excellent,Strength Training,7,Divorced,4,Depression
+Rima,29,Dhaka,Male,Engineer,5,Excellent,HIIT,4,Divorced,8,Insomnia
+Mitu,26,Norail,Male,Analyst,4,Poor,Zumba,4,Single,9,Bipolarity
+Jannat,24,Gazipur,Female,Manager,5,Good,Strength Training,8,Single,4,Anxiety
+Labib,45,Dhaka,Female,Analyst,7,Poor,HIIT,8,Single,10,Anxiety
+Shima,31,Kurigram,Female,Doctor,7,Good,Zumba,2,Single,10,Anxiety
+Jannat,48,Kurigram,Male,Unemployed,8,Poor,Aerobic,2,Married,6,Anxiety
+Rakib,36,Gazipur,Male,Engineer,8,Poor,HIIT,3,Single,1,Anxiety
+Mitu,33,Norail,Female,Designer,7,Average,Yoga,3,Divorced,4,Anxiety
+Purnima,22,Kurigram,Female,Analyst,7,Poor,Zumba,1,Divorced,7,Insomnia
+Nusrat,52,Kurigram,Male,Engineer,7,Average,Strength Training,3,Married,1,Bipolarity
+Sadia,29,Norail,Female,Teacher,5,Excellent,None,6,Single,8,Insomnia
+Moyna,42,Dhaka,Female,Manager,7,Good,Strength Training,8,Divorced,10,Insomnia
+Labib,38,Kurigram,Male,Designer,-4,Excellent,Yoga,10,Married,6,Bipolarity
+Rima,53,Mymensingh,Female,Teacher,4,Good,Yoga,6,Divorced,5,Insomnia
+Nusrat,40,Kurigram,Female,Teacher,7,Excellent,Strength Training,5,Married,10,Depression
+Nusrat,33,Dhaka,Female,Analyst,19,Good,None,4,Married,9,Insomnia
+Akash,56,Dhaka,Male,Teacher,5,Poor,Zumba,3,Single,2,Anxiety
+Lamia,59,Gazipur,Female,Doctor,4,Good,HIIT,4,Married,5,Depression
+Purnima,56,Mymensingh,Female,Doctor,5,Good,Yoga,7,Divorced,6,Depression
+Shima,31,Dhaka,Female,Analyst,6,Excellent,Yoga,1,Divorced,7,Bipolarity
+Jannat,48,Norail,Male,Engineer,5,Excellent,Yoga,7,Single,5,Insomnia
+Mitu,22,Mymensingh,Male,Student,5,Excellent,None,1,Single,9,Insomnia
+Sakib,52,Mymensingh,Female,Engineer,8,Average,Aerobic,2,Married,1,Depression
+Karim,40,Norail,Male,Engineer,7,Average,None,4,Single,7,Insomnia
+Rahim,46,Kurigram,Female,Engineer,7,Good,Zumba,1,Divorced,10,Insomnia
+Tamim,28,Norail,Male,Engineer,6,Good,Zumba,11,Divorced,7,Bipolarity
+Lamia,35,Norail,Male,Designer,6,Poor,Zumba,11,Single,4,Depression
+Jannat,29,Kurigram,Female,Student,7,Poor,Zumba,11,Single,9,Anxiety
+Moyna,26,Kurigram,Female,Designer,8,Good,Zumba,9,Single,5,Depression
+Rahim,27,Kurigram,Female,Teacher,7,Average,Strength Training,6,Married,4,Bipolarity
+Moyna,34,Kurigram,Male,Manager,8,Good,Yoga,1,Married,7,Bipolarity
+Jannat,55,Kurigram,Female,Engineer,6,Poor,None,1,Divorced,4,Bipolarity
+Sakib,24,Norail,Male,Manager,4,Average,Strength Training,6,Married,3,Insomnia
+Sadia,30,Gazipur,Unknown,Doctor,6,Average,None,4,Married,9,Depression
+Jannat,57,Gazipur,Female,Analyst,6,Poor,Aerobic,4,Married,8,Insomnia
+Sakib,59,Dhaka,Male,Analyst,5,Good,HIIT,11,Married,1,Insomnia
+Miraj,26,Gazipur,Female,Designer,5,Excellent,Yoga,6,Divorced,7,Depression
+Purnima,44,Gazipur,Male,Designer,5,Good,Aerobic,11,Single,9,Bipolarity
+Rakib,19,Norail,Female,Doctor,5,Good,Strength Training,7,Divorced,8,Anxiety
+Hridoy,22,Kurigram,Male,Engineer,8,Poor,HIIT,9,Married,8,Anxiety
+Shima,46,Kurigram,Male,Manager,7,Average,Aerobic,10,Single,6,Depression
+Shima,54,Norail,Female,Unemployed,4,Poor,None,5,Single,4,Depression
+Rakib,55,Gazipur,Male,Manager,6,Good,HIIT,9,Single,8,Bipolarity
+Farzana,36,Norail,Female,Student,8,Excellent,None,4,Divorced,3,Depression
+Rahim,25,Dhaka,Male,Teacher,4,Excellent,Aerobic,10,Single,9,Depression
+Jannat,18,Kurigram,Male,Analyst,8,Excellent,Strength Training,2,Divorced,2,Bipolarity
+Tamim,39,Mymensingh,Male,Teacher,8,Poor,None,3,Divorced,2,Bipolarity
+Farzana,34,Dhaka,Female,Student,6,Average,HIIT,11,Married,7,Insomnia
+Farzana,24,Dhaka,Female,Designer,7,Poor,Aerobic,1,Married,10,Depression
+Miraj,42,Norail,Female,Manager,5,Excellent,None,6,Single,4,Anxiety
+Hridoy,21,Gazipur,Female,Analyst,7,Good,Strength Training,6,Single,10,Depression
+Dip,53,Kurigram,Female,Teacher,6,Average,Yoga,1,Married,8,Anxiety
+Farzana,23,Mymensingh,Male,Unemployed,6,Poor,Strength Training,11,Divorced,9,Anxiety
+Purnima,48,Dhaka,Male,Designer,6,Poor,Strength Training,3,Divorced,7,Anxiety
+Farzana,36,Mymensingh,Female,Student,4,Average,Yoga,5,Married,5,Insomnia
+Hridoy,56,Gazipur,Male,Unemployed,7,Average,Strength Training,3,Divorced,8,Bipolarity
+Labib,44,Gazipur,Male,Teacher,7,Good,Yoga,10,Married,4,Bipolarity
+Shima,27,Mymensingh,Male,Unemployed,8,Average,Yoga,3,Married,2,Insomnia
+Sadia,43,Kurigram,Male,Manager,8,Good,None,10,Single,6,Bipolarity
+Shima,36,Gazipur,Female,Engineer,8,Excellent,None,3,Single,9,Insomnia
+Hridoy,56,Mymensingh,Male,Unemployed,6,Excellent,Yoga,5,Married,1,Depression
+Rahim,20,Dhaka,NaN,Designer,7,Poor,Aerobic,5,Single,10,Insomnia
+Rima,30,Mymensingh,Female,Student,6,Excellent,HIIT,4,Married,7,Bipolarity
+Purnima,45,Mymensingh,Male,Teacher,4,Excellent,Aerobic,1,Divorced,10,Bipolarity
+Sakib,37,Norail,Female,Manager,8,Good,Yoga,5,Divorced,9,Depression
+Purnima,45,Gazipur,Male,Engineer,6,Poor,HIIT,10,Divorced,10,Insomnia
+Rakib,25,Kurigram,Male,Engineer,6,Average,None,5,Divorced,9,Depression
+Sadia,58,Kurigram,Male,Student,4,Poor,HIIT,4,Married,10,Anxiety
+Karim,56,Norail,Female,Doctor,5,Excellent,Yoga,6,Divorced,3,Insomnia
+Shima,18,Kurigram,Female,Manager,7,Average,None,10,Divorced,5,Depression
+Moyna,20,Mymensingh,Female,Manager,Unknown,Poor,HIIT,4,Divorced,8,Depression
+Jannat,30,Norail,Male,Analyst,8,Poor,HIIT,7,Divorced,8,Bipolarity
+Moyna,45,Dhaka,Male,Student,6,Poor,Aerobic,7,Married,4,Insomnia
+Moyna,42,Gazipur,Male,Engineer,4,Poor,HIIT,2,Divorced,1,Anxiety
+Rahim,50,Gazipur,Female,Engineer,4,Good,Yoga,3,Single,1,Anxiety
+Rima,55,Gazipur,Male,Unemployed,7,Poor,Zumba,1,Single,4,Insomnia
+Shima,23,Mymensingh,Male,Student,5,Excellent,Zumba,8,Single,6,Insomnia
+Karim,49,Dhaka,Female,Doctor,7,Excellent,Zumba,9,Single,8,Depression
+Moyna,38,Norail,Female,Analyst,6,Good,Yoga,4,Single,6,Bipolarity
+Farzana,33,Norail,Female,Teacher,7,Average,Zumba,6,Single,9,Bipolarity
+Rakib,38,Gazipur,Male,Student,4,Average,Aerobic,9,Married,9,Bipolarity
+Miraj,28,Dhaka,Male,Analyst,4,Excellent,Yoga,6,Single,2,Insomnia
+Karim,54,Dhaka,Male,Manager,8,Excellent,None,9,Divorced,10,Bipolarity
+Tamim,53,Dhaka,Female,Analyst,8,Good,Yoga,4,Single,1,Depression
+Labib,52,Kurigram,Female,Unemployed,6,Average,Yoga,8,Married,2,Insomnia
+Nusrat,36,Kurigram,Female,Designer,5,Average,HIIT,9,Single,5,Insomnia
+Rima,37,Gazipur,Female,Engineer,7,Poor,HIIT,4,Divorced,4,Bipolarity
+Jannat,35,Dhaka,Male,Unemployed,6,Poor,HIIT,5,Divorced,4,Anxiety
+Farzana,58,Dhaka,Male,Teacher,8,Poor,Strength Training,8,Married,9,Anxiety
+Karim,31,Norail,Male,Student,7,Good,Aerobic,10,Married,8,Depression
+Purnima,32,Norail,Male,Unemployed,8,Excellent,Yoga,6,Married,6,Bipolarity
+Purnima,48,Gazipur,Male,Engineer,7,Good,Yoga,7,Married,1,Bipolarity
+Shima,18,Dhaka,Male,Designer,5,Average,HIIT,3,Single,2,Insomnia
+Sakib,20,Gazipur,Male,Unemployed,6,Excellent,Yoga,7,Single,6,Insomnia
+Moyna,33,Norail,Male,Designer,7,Poor,None,8,Divorced,2,Bipolarity
+Miraj,40,Norail,Female,Unemployed,4,Good,Yoga,10,Married,10,Insomnia
+Karim,28,Kurigram,Female,Engineer,4,Good,Zumba,6,Married,5,Bipolarity
+Rakib,29,Gazipur,Male,Doctor,7,Poor,None,10,Single,5,Depression
+Shima,27,Gazipur,Female,Analyst,7,Good,None,9,Married,6,Insomnia
+Farzana,49,Dhaka,Male,Student,7,Poor,Yoga,6,Divorced,6,Bipolarity
+Lamia,33,Dhaka,Male,Student,4,Average,Strength Training,9,Divorced,6,Insomnia
+Karim,25,Kurigram,Female,Student,4,Excellent,HIIT,4,Married,2,Depression
+Moyna,55,Mymensingh,Male,Engineer,7,Average,Aerobic,8,Divorced,10,Insomnia
+Shima,29,Mymensingh,Male,Manager,8,Average,Aerobic,11,Divorced,3,Bipolarity
+Dip,41,Mymensingh,Male,Doctor,8,Poor,Zumba,4,Single,6,Insomnia
+Rima,45,Gazipur,Male,Teacher,5,Good,Aerobic,2,Divorced,8,Insomnia
+Rakib,25,Gazipur,Male,Designer,6,Average,Aerobic,10,Married,1,Bipolarity
+Mitu,45,Norail,Male,Engineer,8,Average,HIIT,11,Married,1,Anxiety
+Moyna,53,Gazipur,Male,Manager,4,Average,HIIT,9,Divorced,2,Insomnia
+Purnima,43,Gazipur,Female,Teacher,8,Good,Strength Training,5,Married,6,Insomnia
+Lamia,25,Gazipur,Female,Designer,5,Good,Zumba,4,Single,9,Depression
+Miraj,45,Kurigram,Male,Designer,5,Poor,Aerobic,2,Divorced,4,Anxiety
+Hridoy,45,Gazipur,Female,Doctor,6,Average,Strength Training,1,Divorced,3,Depression
+Farzana,54,Dhaka,Male,Analyst,8,Excellent,Zumba,11,Divorced,8,Bipolarity
+Lamia,58,Dhaka,Male,Student,4,Good,None,7,Married,10,Bipolarity
+Dip,53,Norail,Male,Unemployed,4,Poor,Aerobic,6,Married,9,Depression
+Purnima,44,Kurigram,Male,Teacher,7,Average,Aerobic,2,Divorced,5,Insomnia
+Sadia,Unknown,Dhaka,Female,Engineer,4,Excellent,HIIT,8,Married,9,Anxiety
+Akash,26,Kurigram,Female,Teacher,6,Good,Yoga,11,Married,2,Depression
+Farzana,50,Kurigram,Female,Analyst,6,Excellent,Zumba,4,Divorced,3,Depression
+Hridoy,37,Norail,Female,Student,4,Good,Aerobic,8,Divorced,7,Bipolarity
+Akash,30,Kurigram,Male,Teacher,4,Poor,Zumba,7,Married,7,Insomnia
+Sadia,45,Gazipur,Female,Analyst,7,Excellent,Strength Training,5,Divorced,6,Anxiety
+Nusrat,46,Kurigram,Male,Engineer,4,Average,Strength Training,10,Divorced,6,Depression
+Sakib,30,Norail,Male,Doctor,7,Average,Yoga,10,Divorced,2,Anxiety
+Akash,52,Norail,Female,Manager,7,Good,Aerobic,8,Divorced,10,Anxiety
+Akash,23,Norail,Male,Designer,4,Average,HIIT,9,Married,6,Depression
+Labib,35,Dhaka,Female,Engineer,5,Excellent,Aerobic,5,Divorced,4,Anxiety
+Nusrat,22,Gazipur,Female,Student,5,Poor,Zumba,10,Single,3,Bipolarity
+Sakib,42,Dhaka,Female,Designer,7,Good,None,5,Divorced,2,Insomnia
+Dip,19,Mymensingh,Female,Manager,4,Excellent,Strength Training,2,Single,1,Insomnia
+Jannat,27,Gazipur,Female,Engineer,5,Good,Zumba,5,Divorced,5,Insomnia
+Miraj,47,Kurigram,Male,Unemployed,4,Poor,Yoga,3,Single,2,Bipolarity
+Sadia,22,Norail,Female,Engineer,4,Good,Strength Training,7,Single,2,Bipolarity
+Dip,50,Mymensingh,Female,Engineer,4,Average,HIIT,10,Divorced,7,Bipolarity
+Miraj,18,Gazipur,Male,Unemployed,8,Average,Strength Training,5,Divorced,8,Insomnia
+Tamim,35,Dhaka,Female,Engineer,4,Good,None,8,Divorced,10,Anxiety
+Sakib,49,Norail,Female,Designer,8,Poor,Aerobic,1,Single,8,Bipolarity
+Shima,28,Dhaka,Male,Student,7,Poor,None,3,Married,4,Depression
+Shima,38,Gazipur,Male,Manager,5,Average,None,3,Married,1,Bipolarity
+Tamim,43,Gazipur,Female,Analyst,5,Poor,Aerobic,9,Divorced,7,Depression
+Moyna,42,Mymensingh,Male,Teacher,5,Good,Strength Training,5,Married,1,Insomnia
+Dip,39,Kurigram,Female,Unemployed,5,Excellent,Yoga,9,Married,4,Depression
+Moyna,44,Dhaka,Male,Doctor,5,Good,Aerobic,9,Divorced,8,Bipolarity
+Shima,30,Mymensingh,Female,Unemployed,5,Average,Aerobic,1,Single,2,Bipolarity
+Karim,50,Norail,Female,Manager,5,Average,HIIT,2,Divorced,6,Anxiety
+Labib,51,Kurigram,Female,Teacher,7,Average,Strength Training,5,Married,6,Insomnia
+Tamim,58,Mymensingh,Male,Teacher,4,Poor,Aerobic,4,Single,9,Depression
+Jannat,52,Dhaka,Female,Doctor,6,Good,Yoga,10,Married,5,Insomnia
+Jannat,18,Gazipur,Male,Manager,8,Excellent,Zumba,9,Single,10,Bipolarity
+Sakib,38,Norail,Female,Designer,6,Good,Strength Training,7,Married,4,Anxiety
+Lamia,23,Dhaka,Female,Student,6,Excellent,HIIT,6,Divorced,5,Bipolarity
+Rahim,45,Kurigram,Female,Doctor,4,Good,None,7,Married,10,Bipolarity
+Moyna,34,Kurigram,Female,Student,4,Average,Aerobic,1,Married,5,Bipolarity
+Hridoy,22,Gazipur,Female,Designer,4,Excellent,Yoga,1,Single,8,Depression
+Rakib,48,Gazipur,Male,Teacher,5,Good,Strength Training,8,Married,10,Bipolarity
+Tamim,22,Norail,Male,Student,7,Poor,Yoga,2,Divorced,8,Insomnia
+Rima,55,Norail,Male,Designer,5,Poor,Yoga,10,Divorced,2,Insomnia
+Karim,20,Gazipur,Female,Designer,7,Good,None,11,Divorced,7,Anxiety
+Tamim,40,Gazipur,Female,Analyst,7,Average,HIIT,9,Single,8,Insomnia
+Rakib,54,Kurigram,Male,Doctor,6,Excellent,Strength Training,7,Single,6,Bipolarity
+Mitu,54,Gazipur,Female,Analyst,6,Good,Aerobic,6,Married,5,Bipolarity
+Akash,27,Mymensingh,Female,Unemployed,7,Poor,HIIT,1,Married,9,Insomnia
+Lamia,27,Dhaka,Female,Teacher,7,Excellent,Aerobic,1,Married,3,Anxiety
+Karim,36,Gazipur,Male,Doctor,5,Poor,Zumba,2,Single,10,Anxiety
+Moyna,34,Norail,Male,Teacher,5,Poor,Yoga,6,Single,4,Insomnia
+Jannat,38,Mymensingh,Male,Analyst,6,Good,Zumba,6,Married,9,Depression
+Tamim,31,Norail,Male,Manager,4,Poor,Yoga,2,Single,6,Depression
+Karim,26,Mymensingh,Male,Designer,7,Excellent,None,1,Single,8,Depression
+Dip,18,Gazipur,Female,Teacher,5,Average,HIIT,10,Divorced,7,Depression
+Miraj,30,Dhaka,Female,Doctor,6,Good,Aerobic,5,Divorced,2,Insomnia
+Lamia,21,Norail,Female,Unemployed,5,Excellent,None,5,Married,3,Anxiety
+Sadia,18,Mymensingh,Female,Doctor,7,Good,Aerobic,2,Married,1,Bipolarity
+Moyna,57,Kurigram,Male,Teacher,7,Poor,HIIT,6,Divorced,9,Bipolarity
+Labib,49,Gazipur,Male,Doctor,8,Poor,Strength Training,9,Single,7,Insomnia
+Karim,51,Dhaka,Female,Unemployed,4,Excellent,Zumba,2,Married,1,Bipolarity
+Miraj,45,Gazipur,Male,Designer,8,Excellent,Zumba,10,Married,3,Depression
+Sadia,48,Kurigram,Female,Manager,6,Average,Aerobic,2,Married,4,Anxiety
+Rakib,25,Dhaka,Female,Designer,5,Excellent,Aerobic,3,Single,4,Insomnia
+Tamim,56,Kurigram,Female,Doctor,6,Excellent,Aerobic,7,Divorced,5,Anxiety
+Purnima,43,Gazipur,Female,Unemployed,7,Good,HIIT,6,Married,3,Insomnia
+Farzana,51,Mymensingh,Male,Unemployed,8,Poor,Strength Training,8,Divorced,3,Insomnia
+Miraj,20,Gazipur,Female,Teacher,8,Excellent,Zumba,8,Divorced,1,Insomnia
+Rakib,29,Gazipur,Male,Analyst,8,Average,None,6,Single,7,Insomnia
+Tamim,18,Gazipur,Female,Doctor,6,Excellent,Yoga,11,Single,10,Anxiety
+Moyna,22,Norail,Female,Doctor,7,Poor,HIIT,10,Single,1,Bipolarity
+Shima,47,Kurigram,Female,Doctor,5,Excellent,Zumba,3,Single,2,Insomnia
+Farzana,47,Kurigram,Female,Doctor,5,Good,Strength Training,3,Single,4,Depression
+Mitu,34,Kurigram,Male,Teacher,6,Poor,HIIT,1,Single,4,Insomnia
+Moyna,40,Norail,Female,Analyst,8,Excellent,None,7,Married,5,Anxiety
+Mitu,32,Mymensingh,Male,Analyst,4,Good,Zumba,5,Divorced,2,Insomnia
+Hridoy,54,Gazipur,Female,Student,6,Poor,HIIT,4,Single,4,Depression
+Purnima,38,Mymensingh,Female,Doctor,6,Excellent,Zumba,10,Married,1,Anxiety
+Hridoy,31,Norail,Female,Doctor,7,Good,Zumba,4,Divorced,2,Insomnia
+Labib,19,Kurigram,Male,Student,21,Average,Strength Training,4,Single,1,Depression
+Rahim,28,Gazipur,NULL,Analyst,6,Good,Yoga,6,Single,10,Anxiety
+Dip,56,Dhaka,Female,Unemployed,6,Average,Strength Training,8,Married,10,Insomnia
+Dip,55,Dhaka,Female,Unemployed,8,Excellent,Zumba,8,Divorced,4,Depression
+Moyna,51,Mymensingh,Female,Engineer,8,Good,HIIT,5,Single,4,Anxiety
+Moyna,55,Kurigram,Female,Designer,4,Average,None,6,Divorced,7,Insomnia
+Tamim,51,Dhaka,Male,Engineer,7,Poor,Strength Training,4,Married,10,Anxiety
+Dip,35,Mymensingh,Male,Analyst,4,Good,Yoga,11,Single,9,Depression
+Jannat,47,Norail,Female,Manager,8,Excellent,Zumba,9,Divorced,9,Insomnia
+Lamia,32,Mymensingh,Female,Doctor,5,Poor,None,8,Married,5,Insomnia
+Mitu,44,Mymensingh,Male,Engineer,8,Average,Strength Training,10,Married,10,Insomnia
+Dip,51,Mymensingh,Female,Teacher,7,Good,Strength Training,10,Single,1,Depression
+Lamia,55,Gazipur,Male,Unemployed,8,Good,Strength Training,1,Divorced,1,Bipolarity
+Tamim,50,Mymensingh,Female,Teacher,Not Given,Excellent,Strength Training,2,Single,6,Insomnia
+Miraj,41,Mymensingh,Female,Student,7,Poor,None,9,Single,2,Depression
+Dip,32,Gazipur,Male,Analyst,7,Good,HIIT,8,Divorced,8,Anxiety
+Hridoy,47,Gazipur,Female,Analyst,7,Good,Yoga,3,Divorced,9,Anxiety
+Rahim,59,Norail,Male,Engineer,7,Poor,Yoga,8,Divorced,4,Depression
+Mitu,34,Kurigram,Male,Doctor,5,Good,Zumba,1,Married,5,Bipolarity
+Purnima,22,Dhaka,Male,Analyst,4,Poor,Aerobic,10,Married,8,Depression
+Moyna,46,Dhaka,Female,Engineer,6,Poor,HIIT,4,Divorced,3,Anxiety
+Farzana,21,Mymensingh,Male,Engineer,4,Poor,Zumba,3,Married,5,Anxiety
+Tamim,27,Norail,Male,Designer,7,Excellent,Zumba,6,Single,3,Insomnia
+Tamim,34,Mymensingh,Female,Designer,5,Poor,Strength Training,7,Divorced,10,Bipolarity
+Shima,27,Dhaka,Female,Analyst,8,Poor,Aerobic,4,Single,3,Depression
+Purnima,34,Gazipur,Female,Engineer,5,Average,Aerobic,7,Divorced,3,Anxiety
+Tamim,37,Kurigram,Female,Student,7,Average,HIIT,9,Single,7,Anxiety
+Tamim,41,Norail,Female,Student,5,Excellent,Aerobic,11,Divorced,7,Anxiety
+Sadia,22,Gazipur,Female,Designer,5,Poor,Zumba,2,Single,7,Depression
+Karim,51,Kurigram,Male,Analyst,7,Average,Aerobic,11,Divorced,10,Depression
+Purnima,23,Norail,Female,Unemployed,5,Average,Aerobic,3,Divorced,8,Bipolarity
+Miraj,19,Norail,Male,Doctor,6,Good,Yoga,5,Married,5,Insomnia
+Hridoy,30,Dhaka,Female,Manager,6,Poor,Zumba,3,Single,5,Insomnia
+Miraj,28,Gazipur,Male,Unemployed,5,Average,None,11,Married,4,Insomnia
+Rahim,40,Norail,Male,Student,8,Excellent,Aerobic,8,Single,7,Anxiety
+Karim,33,Norail,Female,Student,7,Good,Aerobic,10,Married,10,Insomnia
+Mitu,48,Kurigram,Female,Unemployed,6,Good,Strength Training,8,Divorced,4,Anxiety
+Nusrat,28,Dhaka,Male,Designer,8,Poor,Aerobic,8,Married,2,Bipolarity
+Rahim,33,Mymensingh,Female,Designer,5,Poor,Aerobic,9,Married,4,Anxiety
+Akash,25,Dhaka,Female,Analyst,8,Good,Yoga,4,Divorced,8,Bipolarity
+Karim,21,Mymensingh,NULL,Designer,4,Excellent,Zumba,5,Married,9,Bipolarity
+Purnima,57,Gazipur,Male,Teacher,6,Poor,HIIT,5,Divorced,3,Insomnia
+Sakib,21,Gazipur,Male,Manager,5,Poor,Zumba,8,Single,7,Insomnia
+Lamia,42,Norail,Female,Unemployed,7,Good,Strength Training,7,Married,9,Anxiety
+Mitu,20,Gazipur,Female,Unemployed,5,Good,Zumba,9,Divorced,4,Depression
+Mitu,49,Norail,Female,Engineer,7,Poor,Aerobic,8,Divorced,10,Insomnia
+Shima,20,Dhaka,Female,Student,5,Average,Strength Training,2,Married,3,Insomnia
+Miraj,44,Gazipur,Male,Unemployed,8,Poor,Zumba,10,Single,5,Depression
+Moyna,46,Dhaka,Female,Teacher,8,Average,Strength Training,4,Married,1,Depression
+Tamim,49,Dhaka,Male,Unemployed,8,Good,HIIT,6,Divorced,3,Insomnia
+Purnima,36,Gazipur,Female,Doctor,4,Average,Zumba,2,Single,8,Depression
+Jannat,38,Dhaka,Female,Teacher,7,Excellent,None,7,Married,8,Anxiety
+Sadia,22,Gazipur,Male,Analyst,8,Good,Aerobic,3,Divorced,4,Bipolarity
+Karim,35,Gazipur,Female,Doctor,4,Poor,Strength Training,3,Married,2,Bipolarity
+Rakib,45,Gazipur,Female,Doctor,7,Poor,None,11,Single,8,Insomnia
+Rahim,59,Mymensingh,Male,Unemployed,5,Good,None,2,Single,8,Insomnia
+Nusrat,39,Dhaka,Female,Designer,4,Good,Yoga,11,Single,10,Anxiety
+Rima,38,Kurigram,Male,Unemployed,6,Excellent,Strength Training,8,Single,4,Depression
+Miraj,23,Gazipur,Male,Teacher,4,Good,None,6,Single,3,Insomnia
+Rakib,18,Dhaka,Male,Analyst,4,Poor,Yoga,1,Married,2,Bipolarity
+Tamim,22,Norail,Male,Student,7,Excellent,None,1,Single,9,Anxiety
+Lamia,58,Gazipur,Female,Manager,5,Poor,Aerobic,7,Single,1,Anxiety
+Mitu,29,Gazipur,Female,Designer,6,Average,HIIT,8,Divorced,7,Depression
+Akash,43,Kurigram,Female,Teacher,8,Good,Yoga,5,Single,5,Insomnia
+Lamia,51,Mymensingh,Male,Student,8,Average,HIIT,11,Divorced,8,Insomnia
+Farzana,31,Mymensingh,Female,Teacher,4,Poor,Strength Training,5,Divorced,4,Anxiety
+Rahim,43,Gazipur,Female,Designer,7,Average,Aerobic,4,Divorced,7,Bipolarity
+Moyna,44,Dhaka,Female,Student,7,Average,Yoga,6,Married,5,Insomnia
+Karim,26,Norail,Female,Designer,8,Poor,Strength Training,6,Married,5,Bipolarity
+Miraj,43,Norail,Male,Teacher,6,Poor,None,3,Divorced,9,Anxiety
+Mitu,39,Dhaka,Male,Doctor,5,Good,Zumba,9,Married,9,Insomnia
+Farzana,47,Gazipur,Female,Manager,6,Average,Strength Training,11,Single,9,Bipolarity
+Akash,34,Norail,Male,Engineer,5,Excellent,HIIT,7,Married,6,Anxiety
+Rima,43,Mymensingh,Female,Manager,8,Excellent,Aerobic,1,Single,6,Bipolarity
+Lamia,53,Dhaka,Female,Doctor,5,Poor,Aerobic,7,Single,5,Insomnia
+Sakib,18,Kurigram,Female,Designer,7,Poor,Strength Training,5,Married,9,Depression
+Miraj,25,Gazipur,Male,Manager,4,Average,None,5,Married,10,Bipolarity
+Moyna,52,Dhaka,Female,Designer,4,Poor,Zumba,2,Divorced,8,Depression
+Karim,32,Norail,Male,Designer,8,Excellent,HIIT,4,Married,7,Insomnia
+Sadia,39,Gazipur,Male,Student,7,Good,Strength Training,6,Married,Unknown,Depression
+Moyna,31,Mymensingh,Female,Analyst,6,Good,Strength Training,10,Married,6,Anxiety
+Mitu,43,Gazipur,Male,Designer,7,Average,Aerobic,11,Single,5,Depression
+Rima,45,Gazipur,Male,Manager,4,Good,HIIT,7,Single,4,Bipolarity
+Akash,40,Mymensingh,Female,Manager,4,Poor,Zumba,11,Single,3,Bipolarity
+Moyna,31,Mymensingh,Male,Manager,21,Poor,Aerobic,5,Divorced,3,Depression
+Karim,41,Gazipur,Male,Doctor,7,Poor,Strength Training,Not Given,Divorced,6,Anxiety
+Akash,19,Mymensingh,Female,Engineer,4,Poor,Aerobic,3,Divorced,4,Insomnia
+Hridoy,43,Dhaka,Female,Designer,6,Average,Aerobic,1,Single,6,Depression
+Moyna,31,Mymensingh,Male,Unemployed,8,Good,Yoga,4,Married,3,Bipolarity
+Farzana,24,Mymensingh,Female,Designer,8,Excellent,Aerobic,9,Divorced,4,Bipolarity
+Miraj,20,Gazipur,Female,Designer,7,Good,None,4,Divorced,9,Depression
+Labib,40,Dhaka,Male,Unemployed,8,Poor,Aerobic,2,Single,5,Depression
+Nusrat,35,Kurigram,Male,Student,4,Excellent,None,10,Divorced,7,Depression
+Akash,55,Kurigram,Female,Designer,4,Average,HIIT,5,Married,10,Insomnia
+Rima,52,Norail,Male,Doctor,7,Poor,Aerobic,3,Single,2,Bipolarity
+Akash,32,Mymensingh,Female,Teacher,7,Poor,Zumba,9,Single,5,Bipolarity
+Sadia,42,Mymensingh,Female,Analyst,7,Excellent,None,4,Married,9,Bipolarity
+Tamim,54,Dhaka,Male,Manager,16,Average,None,6,Married,3,Insomnia
+Purnima,45,Kurigram,Male,Designer,8,Excellent,Strength Training,2,Married,9,Anxiety
+Rima,27,Norail,Female,Student,7,Average,HIIT,6,Divorced,6,Bipolarity
+Labib,56,Dhaka,Female,Doctor,5,Poor,Aerobic,3,Married,4,Bipolarity
+Shima,34,Mymensingh,Female,Designer,5,Good,Zumba,9,Single,7,Anxiety
+Mitu,56,Kurigram,Female,Unemployed,4,Poor,Strength Training,11,Married,8,Insomnia
+Nusrat,39,Norail,Male,Student,8,Good,HIIT,2,Single,6,Anxiety
+Tamim,43,Gazipur,Female,Teacher,7,Good,None,9,Single,5,Anxiety
+Hridoy,Who knows,Kurigram,Male,Engineer,5,Average,Zumba,5,Divorced,6,Anxiety
+Miraj,34,Norail,Male,Designer,8,Excellent,Aerobic,8,Married,5,Anxiety
+Sakib,30,Dhaka,Female,Doctor,4,Average,Yoga,2,Divorced,8,Insomnia
+Nusrat,37,Gazipur,Male,Student,6,Poor,Yoga,6,Married,1,Insomnia
+Farzana,42,Norail,Male,Unemployed,8,Excellent,HIIT,3,Married,Unknown,Anxiety
+Rakib,21,Norail,Female,Student,8,Good,Zumba,10,Married,10,Depression
+Dip,27,Mymensingh,Male,Designer,6,Good,Strength Training,5,Married,10,Depression
+Rahim,20,Kurigram,Male,Student,8,Poor,Zumba,8,Married,2,Depression
+Rakib,58,Mymensingh,Female,Engineer,4,Excellent,None,10,Single,9,Depression
+Sadia,35,Gazipur,Female,Student,4,Poor,Yoga,1,Single,1,Bipolarity
+Moyna,53,Norail,Female,Manager,6,Poor,HIIT,5,Married,10,Insomnia
+Akash,39,Mymensingh,Female,Analyst,7,Average,Aerobic,3,Single,6,Insomnia
+Farzana,51,Kurigram,Female,Manager,5,Poor,Zumba,4,Divorced,9,Anxiety
+Rima,25,Gazipur,Female,Analyst,7,Excellent,Yoga,2,Divorced,1,Bipolarity
+Rima,57,Dhaka,Female,Student,8,Poor,Strength Training,9,Divorced,4,Anxiety
+Jannat,36,Mymensingh,Male,Unemployed,5,Excellent,HIIT,3,Married,4,Anxiety
+Hridoy,59,Gazipur,Male,Unemployed,6,Good,Aerobic,2,Married,9,Insomnia
+Miraj,58,Dhaka,Female,Designer,6,Poor,Zumba,Who knows,Single,5,Bipolarity
+Rima,54,Mymensingh,Male,Unemployed,5,Excellent,Strength Training,11,Single,5,Depression
+Farzana,23,Gazipur,Male,Analyst,4,Good,Aerobic,9,Single,6,Insomnia
+Rakib,43,Gazipur,Female,Doctor,5,Excellent,None,7,Divorced,1,Bipolarity
+Miraj,51,Mymensingh,Male,Analyst,8,Good,Yoga,6,Divorced,1,Bipolarity
+Farzana,23,Gazipur,Female,Manager,4,Average,None,1,Divorced,9,Insomnia
+Tamim,54,Norail,Male,Student,6,Poor,Yoga,5,Divorced,3,Insomnia
+Moyna,50,Mymensingh,Female,Designer,5,Poor,Strength Training,11,Single,4,Anxiety
+Moyna,39,Gazipur,Male,Teacher,7,Good,None,11,Married,1,Anxiety
+Akash,38,Dhaka,Male,Designer,7,Average,Yoga,3,Married,9,Anxiety
+Farzana,23,Dhaka,Male,Designer,8,Excellent,HIIT,1,Divorced,8,Depression
+Rahim,23,Norail,Female,Designer,7,Average,Strength Training,4,Married,2,Insomnia
+Labib,21,Mymensingh,Male,Doctor,5,Excellent,Yoga,2,Married,8,Bipolarity
+Moyna,47,Gazipur,Male,Engineer,5,Excellent,Zumba,2,Married,7,Insomnia
+Akash,28,Gazipur,Female,Manager,7,Poor,Yoga,3,Divorced,6,Bipolarity
+Purnima,47,Dhaka,Female,Student,5,Good,None,8,Single,1,Depression
+Sakib,48,Norail,Male,Engineer,8,Poor,HIIT,8,Single,7,Insomnia
+Akash,41,Dhaka,Male,Teacher,4,Poor,Aerobic,7,Married,10,Bipolarity
+Karim,26,Dhaka,Male,Engineer,8,Poor,Aerobic,6,Single,7,Bipolarity
+Shima,20,Norail,Male,Student,8,Excellent,Yoga,9,Single,9,Anxiety
+Karim,48,Mymensingh,Female,Manager,5,Poor,Aerobic,4,Divorced,1,Depression
+Rima,57,Gazipur,Male,Manager,4,Excellent,Yoga,1,Divorced,2,Insomnia
+Hridoy,54,Mymensingh,Male,Student,5,Good,HIIT,8,Married,9,Anxiety
+Tamim,53,Kurigram,Female,Teacher,6,Excellent,Aerobic,7,Married,9,Depression
+Rima,41,Kurigram,Male,Student,5,Excellent,None,7,Married,6,Anxiety
+Farzana,48,Kurigram,NULL,Teacher,5,Average,None,3,Divorced,6,Insomnia
+Shima,23,Norail,Male,Teacher,5,Poor,Zumba,4,Single,4,Bipolarity
+Sadia,19,Dhaka,Female,Student,4,Poor,Yoga,10,Divorced,4,Insomnia
+Tamim,37,Mymensingh,Female,Analyst,5,Poor,Aerobic,9,Divorced,5,Depression
+Dip,45,Gazipur,Male,Manager,4,Poor,None,6,Single,3,Insomnia
+Rakib,28,Kurigram,Male,Teacher,7,Average,HIIT,5,Single,1,Depression
+Rahim,21,Mymensingh,Female,Student,6,Average,HIIT,3,Married,1,Anxiety
+Hridoy,32,Kurigram,Male,Unemployed,4,Average,Zumba,9,Single,7,Depression
+Labib,23,Kurigram,Male,Analyst,7,Average,HIIT,5,Single,1,Bipolarity
+Miraj,47,Gazipur,Female,Manager,4,Poor,HIIT,5,Single,1,Bipolarity
+Akash,55,Norail,Female,Teacher,4,Excellent,Aerobic,4,Single,3,Bipolarity
+Lamia,19,Dhaka,Female,Manager,6,Good,Yoga,4,Married,10,Anxiety
+Tamim,32,Norail,Male,Analyst,8,Average,Strength Training,1,Married,4,Depression
+Sadia,28,Mymensingh,Male,Manager,8,Excellent,HIIT,7,Single,4,Anxiety
+Nusrat,25,Norail,Male,Doctor,4,Average,HIIT,9,Single,2,Insomnia
+Dip,43,Mymensingh,Male,Designer,5,Poor,Strength Training,3,Married,1,Insomnia
+Nusrat,22,Mymensingh,Female,Doctor,Not Given,Poor,HIIT,2,Married,3,Insomnia
+Akash,23,Dhaka,Male,Analyst,5,Excellent,Aerobic,3,Single,4,Insomnia
+Lamia,43,Gazipur,Male,Teacher,5,Excellent,Aerobic,1,Divorced,3,Bipolarity
+Lamia,21,Dhaka,Female,Student,4,Excellent,Strength Training,6,Married,8,Depression
+Tamim,36,Norail,Female,Engineer,4,Poor,None,11,Married,10,Bipolarity
+Moyna,37,Mymensingh,NULL,Student,4,Poor,HIIT,11,Married,1,Depression
+Rakib,50,Kurigram,Female,Manager,4,Good,None,7,Single,2,Depression
+Mitu,37,Kurigram,Female,Engineer,8,Excellent,HIIT,11,Single,7,Anxiety
+Farzana,29,Mymensingh,Male,Engineer,17,Good,Yoga,11,Married,4,Insomnia
+Miraj,18,Dhaka,Male,Manager,8,Average,HIIT,2,Single,8,Depression
+Rakib,43,Gazipur,Male,Manager,8,Good,Aerobic,8,Single,3,Insomnia
+Moyna,31,Dhaka,Male,Teacher,4,Average,Zumba,6,Married,6,Insomnia
+Karim,55,Mymensingh,Female,Analyst,6,Average,Zumba,4,Single,9,Insomnia
+Rakib,54,Mymensingh,Female,Unemployed,7,Good,Zumba,5,Divorced,1,Bipolarity
+Akash,28,Gazipur,Male,Student,5,Excellent,Zumba,8,Single,1,Insomnia
+Sakib,53,Norail,Male,Analyst,8,Average,,3,Single,8,Depression
+Labib,30,Norail,Female,Doctor,7,Excellent,None,3,Married,3,Bipolarity
+Mitu,20,Gazipur,Male,Teacher,6,Poor,HIIT,11,Married,5,Insomnia
+Sadia,50,Norail,Male,Teacher,5,Average,None,4,Divorced,1,Anxiety
+Sakib,23,Kurigram,Male,Unemployed,5,Poor,HIIT,1,Single,5,Insomnia
+Karim,27,Norail,Male,Doctor,8,Good,Yoga,9,Divorced,6,Insomnia
+Labib,22,Norail,Female,Student,4,Excellent,HIIT,8,Divorced,8,Bipolarity
+Shima,40,Norail,Male,Designer,6,Good,Zumba,8,Married,3,Depression
+Rakib,27,Kurigram,Female,Doctor,8,Average,Strength Training,10,Single,3,Insomnia
+Labib,19,Norail,Male,Student,6,Poor,Strength Training,6,Married,10,Bipolarity
+Rima,30,Kurigram,Male,Engineer,4,Average,Aerobic,7,Divorced,9,Bipolarity
+Mitu,57,Gazipur,Female,Manager,4,Good,Aerobic,6,Divorced,4,Depression
+Nusrat,19,Dhaka,Male,Teacher,17,Excellent,HIIT,9,Married,4,Bipolarity
+Tamim,37,Gazipur,Female,Student,4,Excellent,Strength Training,3,Married,7,Depression
+Farzana,18,Dhaka,Male,Analyst,7,Average,Zumba,3,Married,2,Anxiety
+Moyna,54,Gazipur,Male,Unemployed,5,Average,None,3,Married,8,Insomnia
+Purnima,26,Dhaka,Male,Manager,8,Poor,Zumba,10,Married,6,Bipolarity
+Akash,34,Dhaka,Male,Analyst,6,Good,Zumba,3,Divorced,3,Anxiety
+Karim,26,Mymensingh,Male,Manager,7,Average,HIIT,9,Married,9,Bipolarity
+Tamim,28,Dhaka,Female,Teacher,8,Poor,HIIT,4,Single,5,Bipolarity
+Rahim,32,Dhaka,Female,Doctor,4,Average,Yoga,7,Divorced,8,Anxiety
+Hridoy,41,Mymensingh,Male,Designer,4,Excellent,Zumba,9,Divorced,7,Bipolarity
+Jannat,55,Norail,Male,Doctor,Unknown,Poor,Zumba,11,Single,8,Bipolarity
+Farzana,52,Norail,Female,Student,4,Poor,HIIT,7,Single,7,Anxiety
+Sakib,47,Mymensingh,Female,Unemployed,6,Average,Suye bose thake,9,Divorced,3,Bipolarity
+Shima,48,Kurigram,Male,Doctor,7,Good,Yoga,3,Married,2,Depression
+Tamim,22,Dhaka,Male,Teacher,5,Excellent,Yoga,4,Divorced,7,Bipolarity
+Hridoy,31,Dhaka,Female,Unemployed,6,Good,Aerobic,8,Divorced,3,Insomnia
+Jannat,28,Mymensingh,Male,Student,6,Poor,Strength Training,6,Single,3,Bipolarity
+Dip,26,Mymensingh,Female,Engineer,5,Good,Zumba,5,Divorced,2,Insomnia
+Rakib,51,Kurigram,Male,Doctor,5,Poor,Zumba,4,Married,4,Insomnia
+Jannat,29,Norail,Female,Doctor,4,Good,Yoga,8,Single,8,Bipolarity
+Labib,52,Gazipur,Female,Designer,6,Average,Yoga,1,Divorced,1,Anxiety
+Rakib,52,Norail,Male,Student,8,Good,Aerobic,9,Divorced,1,Depression
+Hridoy,18,Dhaka,Female,Analyst,5,Poor,Strength Training,1,Married,5,Depression
+Karim,57,Mymensingh,Male,Doctor,5,Excellent,Aerobic,8,Divorced,5,Bipolarity
+Jannat,39,Kurigram,Male,Teacher,7,Excellent,Strength Training,4,Divorced,1,Anxiety
+Miraj,46,Norail,Male,Doctor,8,Excellent,None,9,Divorced,6,Anxiety
+Nusrat,25,Kurigram,Male,Designer,8,Poor,Zumba,11,Divorced,1,Depression
+Nusrat,28,Norail,Female,Engineer,5,Good,Aerobic,5,Married,5,Anxiety
+Miraj,58,Dhaka,Male,Designer,4,Excellent,Yoga,3,Divorced,9,Bipolarity
+Farzana,54,Gazipur,Male,Doctor,7,Excellent,Nortei chay na,9,Divorced,5,Bipolarity
+Lamia,31,Kurigram,NULL,Unemployed,8,Excellent,None,11,Divorced,6,Anxiety
+Sadia,47,Kurigram,Male,Analyst,5,Average,Aerobic,9,Single,8,Bipolarity
+Karim,52,Gazipur,Female,Manager,8,Poor,Zumba,4,Married,1,Insomnia
+Jannat,38,Kurigram,Male,Doctor,7,Poor,None,11,Single,2,Depression
+Farzana,54,Kurigram,Female,Student,7,Poor,Yoga,4,Single,9,Bipolarity
+Nusrat,22,Norail,Female,Doctor,6,Poor,Yoga,8,Married,3,Anxiety
+Rima,36,Norail,Female,Analyst,5,Poor,HIIT,2,Single,6,Depression
+Nusrat,31,Gazipur,Male,Student,7,Average,None,9,Single,5,Bipolarity
+Rakib,43,Dhaka,Male,Teacher,6,Good,HIIT,6,Single,2,Depression
+Farzana,21,Kurigram,Male,Unemployed,6,Average,HIIT,9,Married,7,Anxiety
+Moyna,42,Dhaka,Male,Student,8,Excellent,Zumba,8,Divorced,4,Insomnia
+Rakib,59,Gazipur,Female,Designer,8,Average,Aerobic,7,Married,1,Insomnia
+Sakib,42,Gazipur,Female,Engineer,6,Poor,Yoga,1,Married,4,Bipolarity
+Jannat,35,Norail,Male,Designer,8,Average,Yoga,3,Married,6,Insomnia
+Mitu,57,Kurigram,Male,Manager,7,Poor,Aerobic,11,Single,7,Bipolarity
+Mitu,25,Mymensingh,Male,Student,4,Average,Yoga,2,Divorced,Who knows,Depression
+Jannat,56,Gazipur,Male,Teacher,7,Poor,Aerobic,5,Married,7,Bipolarity
+Moyna,57,Kurigram,Male,Doctor,6,Excellent,None,5,Married,3,Bipolarity
+Rakib,31,Dhaka,Male,Unemployed,6,Poor,Zumba,5,Divorced,6,Bipolarity
+Moyna,49,Norail,Male,Student,7,Average,Zumba,4,Divorced,8,Insomnia
+Purnima,55,Dhaka,Female,Designer,8,Excellent,Zumba,5,Divorced,4,Bipolarity
+Nusrat,50,Gazipur,Female,Student,8,Average,Aerobic,3,Single,8,Anxiety
+Farzana,40,Gazipur,Female,Student,6,Excellent,Aerobic,1,Divorced,2,Bipolarity
+Akash,32,Dhaka,Female,Student,5,Good,Strength Training,5,Single,10,Depression
+Nusrat,50,Gazipur,Male,Teacher,8,Good,Yoga,9,Married,9,Anxiety
+Jannat,42,Kurigram,Male,Unemployed,7,Good,Yoga,9,Single,9,Depression
+Mitu,34,Gazipur,Male,Analyst,8,Average,Strength Training,4,Divorced,8,Depression
+Akash,50,Norail,Male,Analyst,7,Average,Strength Training,3,Single,10,Depression
+Rima,19,Kurigram,Male,Student,6,Excellent,Zumba,1,Divorced,10,Anxiety
+Lamia,31,Mymensingh,Female,Teacher,8,Excellent,Strength Training,2,Single,1,Anxiety
+Rima,57,Gazipur,Male,Teacher,7,Excellent,Aerobic,8,Married,2,Insomnia
+Mitu,57,Gazipur,Female,Manager,6,Excellent,HIIT,1,Nijeo jane na ki,6,Anxiety
+Shima,56,Norail,Male,Student,5,Poor,Aerobic,8,Married,10,Bipolarity
+Rakib,23,Norail,Female,Designer,7,Good,Strength Training,7,Divorced,5,Depression
+Rakib,23,Dhaka,Male,Designer,5,Poor,Yoga,8,Married,9,Insomnia
+Purnima,20,Dhaka,Female,Engineer,5,Poor,Aerobic,6,Divorced,5,Anxiety
+Purnima,24,Dhaka,Male,Unemployed,4,Poor,Yoga,9,Divorced,2,Depression
+Lamia,25,Norail,Male,Student,8,Poor,Aerobic,3,Married,10,Anxiety
+Rima,59,Dhaka,Male,Engineer,7,Good,Yoga,10,Married,4,Insomnia
+Moyna,32,Dhaka,Male,Designer,5,Poor,None,4,Single,9,Anxiety
+Hridoy,46,Mymensingh,Female,Designer,4,Hihihi,Aerobic,6,Single,1,Anxiety
+Moyna,50,Dhaka,Male,Student,6,Average,Yoga,8,Married,1,Depression
+Rakib,47,Gazipur,Female,Engineer,7,Excellent,HIIT,5,Married,7,Bipolarity
+Karim,56,Norail,Male,Engineer,5,Average,Zumba,3,Married,3,Anxiety
+Karim,44,Kurigram,Female,Student,8,Excellent,Aerobic,6,Married,10,Insomnia
+Akash,53,Mymensingh,Male,Unemployed,4,Excellent,HIIT,4,Divorced,2,Anxiety
+Tamim,46,Norail,Male,Manager,5,Average,Zumba,9,Married,9,Anxiety
+Tamim,55,Norail,Female,Engineer,8,Good,Aerobic,3,Married,3,Bipolarity
+Labib,50,Gazipur,Male,Bekar,5,Poor,HIIT,4,Married,2,Depression
+Rima,54,Dhaka,Male,Doctor,7,Nai kisu,HIIT,7,Married,8,Insomnia
+Hridoy,44,Gazipur,Female,Unemployed,7,Good,None,7,Divorced,10,Depression
+Akash,50,Dhaka,Male,Designer,7,Poor,HIIT,4,Single,6,Depression
+Tamim,21,Dhaka,Female,Analyst,4,Good,None,6,Single,6,Depression
+Tamim,39,Norail,Male,Unemployed,7,Good,Strength Training,3,Single,10,Anxiety
+Dip,19,Dhaka,Female,Manager,8,Poor,Yoga,6,Single,7,Bipolarity
+Lamia,27,Mymensingh,Female,Manager,-2,Excellent,Zumba,2,Single,7,Anxiety
+Miraj,22,Mymensingh,Female,Manager,6,Good,Yoga,8,Divorced,6,Insomnia
+Rahim,27,Mymensingh,Female,Teacher,8,Excellent,Yoga,2,Single,4,Bipolarity
+Jannat,50,Norail,Male,Unemployed,8,Excellent,None,11,Divorced,9,Depression
+Hridoy,55,Gazipur,Male,Engineer,7,Excellent,Yoga,7,Divorced,6,Bipolarity
+Shima,30,Kurigram,Female,Engineer,4,Poor,HIIT,9,Single,4,Insomnia
+Jannat,48,Dhaka,Male,Teacher,5,pqrst,None,1,Single,3,Anxiety
+Labib,53,Kurigram,Male,Nai kisu,4,Excellent,Yoga,8,Single,4,Anxiety
+Jannat,41,Gazipur,Male,Teacher,5,Average,None,7,Married,3,Depression
+Akash,32,Gazipur,Female,Manager,5,Average,Strength Training,6,Divorced,2,Anxiety
+Purnima,46,Norail,Male,Student,4,Good,None,6,Single,5,Anxiety
+Miraj,25,Mymensingh,Male,Unemployed,8,Excellent,Aerobic,6,Married,2,Insomnia
+Dip,22,Mymensingh,Female,Doctor,5,Excellent,HIIT,9,Divorced,6,Bipolarity
